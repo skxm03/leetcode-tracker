@@ -4,5 +4,14 @@
   ],
   "Simulation": [
     "leetcode/1929-concatenation-of-array"
+  ],
+  "Hash Table": [
+    "leetcode/0242-valid-anagram"
+  ],
+  "String": [
+    "leetcode/0242-valid-anagram"
+  ],
+  "Sorting": [
+    "leetcode/0242-valid-anagram"
   ]
 }
