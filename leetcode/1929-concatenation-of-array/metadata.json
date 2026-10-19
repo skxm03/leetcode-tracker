@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "2058",
+  "frontendId": "1929",
+  "title": "Concatenation of Array",
+  "slug": "concatenation-of-array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Simulation"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "0 ms",
+  "memory": "12.4 MB",
+  "submissionId": "2176448765",
+  "acceptedAt": "2026-10-19T17:25:58.133Z",
+  "updatedAt": "2026-10-19T17:25:59.005Z",
+  "url": "https://leetcode.com/problems/concatenation-of-array/",
+  "version": 1
+}
