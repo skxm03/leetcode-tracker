@@ -1,6 +1,7 @@
 {
   "python": [
     "leetcode/1929-concatenation-of-array",
-    "leetcode/0242-valid-anagram"
+    "leetcode/0242-valid-anagram",
+    "leetcode/0014-longest-common-prefix"
   ]
 }

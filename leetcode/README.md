@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**2** problems solved — 2 Easy · 0 Medium · 0 Hard
+**3** problems solved — 3 Easy · 0 Medium · 0 Hard
 
 ## Contents
 
@@ -14,15 +14,17 @@
 
 | # | Title | Difficulty | Topics |
 | --- | --- | --- | --- |
+| 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | Array, String, Trie |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | Hash Table, String, Sorting |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy | Array, Simulation |
 
 ## By Difficulty
 
-### Easy (2)
+### Easy (3)
 
 | # | Title | Topics |
 | --- | --- | --- |
+| 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Array, String, Trie |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Hash Table, String, Sorting |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
@@ -37,10 +39,11 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (1)</summary>
+<summary>Array (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy |
 
 </details>
@@ -73,21 +76,32 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (1)</summary>
+<summary>String (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Trie (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 
 </details>
 
 ## By Language
 
 <details>
-<summary>python (2)</summary>
+<summary>python (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy |
 
@@ -97,5 +111,6 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | 2026-10-20 |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | 2026-10-19 |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy | 2026-10-19 |

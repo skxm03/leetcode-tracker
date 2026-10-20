@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "14",
+  "frontendId": "14",
+  "title": "Longest Common Prefix",
+  "slug": "longest-common-prefix",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String",
+    "Trie"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "0 ms",
+  "memory": "12.3 MB",
+  "submissionId": "2177337405",
+  "acceptedAt": "2026-10-20T18:10:31.926Z",
+  "updatedAt": "2026-10-20T18:10:32.780Z",
+  "url": "https://leetcode.com/problems/longest-common-prefix/",
+  "version": 1
+}
