@@ -1,7 +1,8 @@
 {
   "Array": [
     "leetcode/1929-concatenation-of-array",
-    "leetcode/0014-longest-common-prefix"
+    "leetcode/0014-longest-common-prefix",
+    "leetcode/0027-remove-element"
   ],
   "Simulation": [
     "leetcode/1929-concatenation-of-array"
@@ -18,5 +19,8 @@
   ],
   "Trie": [
     "leetcode/0014-longest-common-prefix"
+  ],
+  "Two Pointers": [
+    "leetcode/0027-remove-element"
   ]
 }
