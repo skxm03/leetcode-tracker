@@ -1,0 +1,27 @@
+{
+  "platform": "leetcode",
+  "problemId": "948",
+  "frontendId": "912",
+  "title": "Sort an Array",
+  "slug": "sort-an-array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Divide and Conquer",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Merge Sort",
+    "Bucket Sort",
+    "Radix Sort",
+    "Counting Sort"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "1238 ms",
+  "memory": "21.2 MB",
+  "submissionId": "2177349070",
+  "acceptedAt": "2026-10-20T18:22:56.295Z",
+  "updatedAt": "2026-10-20T18:22:57.219Z",
+  "url": "https://leetcode.com/problems/sort-an-array/",
+  "version": 1
+}

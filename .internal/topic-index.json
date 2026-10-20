@@ -2,7 +2,8 @@
   "Array": [
     "leetcode/1929-concatenation-of-array",
     "leetcode/0014-longest-common-prefix",
-    "leetcode/0027-remove-element"
+    "leetcode/0027-remove-element",
+    "leetcode/0912-sort-an-array"
   ],
   "Simulation": [
     "leetcode/1929-concatenation-of-array"
@@ -15,12 +16,31 @@
     "leetcode/0014-longest-common-prefix"
   ],
   "Sorting": [
-    "leetcode/0242-valid-anagram"
+    "leetcode/0242-valid-anagram",
+    "leetcode/0912-sort-an-array"
   ],
   "Trie": [
     "leetcode/0014-longest-common-prefix"
   ],
   "Two Pointers": [
     "leetcode/0027-remove-element"
+  ],
+  "Divide and Conquer": [
+    "leetcode/0912-sort-an-array"
+  ],
+  "Heap (Priority Queue)": [
+    "leetcode/0912-sort-an-array"
+  ],
+  "Merge Sort": [
+    "leetcode/0912-sort-an-array"
+  ],
+  "Bucket Sort": [
+    "leetcode/0912-sort-an-array"
+  ],
+  "Radix Sort": [
+    "leetcode/0912-sort-an-array"
+  ],
+  "Counting Sort": [
+    "leetcode/0912-sort-an-array"
   ]
 }
