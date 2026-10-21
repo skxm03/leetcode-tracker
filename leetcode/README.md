@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**6** problems solved — 4 Easy · 2 Medium · 0 Hard
+**7** problems solved — 4 Easy · 3 Medium · 0 Hard
 
 ## Contents
 
@@ -18,6 +18,7 @@
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | Array, Two Pointers |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | Hash Table, String, Sorting |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
+| 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium | Array, Dynamic Programming, Knapsack Problem, Complete Knapsack |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy | Array, Simulation |
 
@@ -32,11 +33,12 @@
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Hash Table, String, Sorting |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
-### Medium (2)
+### Medium (3)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
+| 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Array, Dynamic Programming, Knapsack Problem, Complete Knapsack |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
 
 ### Hard (0)
@@ -46,13 +48,14 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (5)</summary>
+<summary>Array (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
+| 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy |
 
@@ -77,11 +80,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Complete Knapsack (1)</summary>
+<summary>Complete Knapsack (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
+| 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
 
 </details>
 
@@ -104,11 +108,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Dynamic Programming (1)</summary>
+<summary>Dynamic Programming (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
+| 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
 
 </details>
 
@@ -131,11 +136,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Knapsack Problem (1)</summary>
+<summary>Knapsack Problem (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
+| 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
 
 </details>
 
@@ -207,7 +213,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (6)</summary>
+<summary>python (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -215,6 +221,7 @@ _No problems solved yet._
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
+| 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy |
 
@@ -224,6 +231,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium | 2026-10-21 |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | 2026-10-21 |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | 2026-10-20 |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | 2026-10-20 |
