@@ -3,7 +3,8 @@
     "leetcode/1929-concatenation-of-array",
     "leetcode/0014-longest-common-prefix",
     "leetcode/0027-remove-element",
-    "leetcode/0912-sort-an-array"
+    "leetcode/0912-sort-an-array",
+    "leetcode/0322-coin-change"
   ],
   "Simulation": [
     "leetcode/1929-concatenation-of-array"
@@ -42,5 +43,17 @@
   ],
   "Counting Sort": [
     "leetcode/0912-sort-an-array"
+  ],
+  "Dynamic Programming": [
+    "leetcode/0322-coin-change"
+  ],
+  "Breadth-First Search": [
+    "leetcode/0322-coin-change"
+  ],
+  "Knapsack Problem": [
+    "leetcode/0322-coin-change"
+  ],
+  "Complete Knapsack": [
+    "leetcode/0322-coin-change"
   ]
 }

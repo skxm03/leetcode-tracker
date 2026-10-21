@@ -71,5 +71,21 @@
     ],
     "language": "python",
     "acceptedAt": "2026-10-20T18:22:56.295Z"
+  },
+  {
+    "folderId": "leetcode/0322-coin-change",
+    "frontendId": "322",
+    "title": "Coin Change",
+    "slug": "coin-change",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Knapsack Problem",
+      "Complete Knapsack"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-10-21T04:41:41.422Z"
   }
 ]
