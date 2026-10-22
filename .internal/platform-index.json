@@ -6,6 +6,7 @@
     "leetcode/0027-remove-element",
     "leetcode/0912-sort-an-array",
     "leetcode/0322-coin-change",
-    "leetcode/0518-coin-change-ii"
+    "leetcode/0518-coin-change-ii",
+    "leetcode/0948-bag-of-tokens"
   ]
 }

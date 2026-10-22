@@ -5,7 +5,8 @@
     "leetcode/0027-remove-element",
     "leetcode/0912-sort-an-array",
     "leetcode/0322-coin-change",
-    "leetcode/0518-coin-change-ii"
+    "leetcode/0518-coin-change-ii",
+    "leetcode/0948-bag-of-tokens"
   ],
   "Simulation": [
     "leetcode/1929-concatenation-of-array"
@@ -19,13 +20,15 @@
   ],
   "Sorting": [
     "leetcode/0242-valid-anagram",
-    "leetcode/0912-sort-an-array"
+    "leetcode/0912-sort-an-array",
+    "leetcode/0948-bag-of-tokens"
   ],
   "Trie": [
     "leetcode/0014-longest-common-prefix"
   ],
   "Two Pointers": [
-    "leetcode/0027-remove-element"
+    "leetcode/0027-remove-element",
+    "leetcode/0948-bag-of-tokens"
   ],
   "Divide and Conquer": [
     "leetcode/0912-sort-an-array"
@@ -59,5 +62,8 @@
   "Complete Knapsack": [
     "leetcode/0322-coin-change",
     "leetcode/0518-coin-change-ii"
+  ],
+  "Greedy": [
+    "leetcode/0948-bag-of-tokens"
   ]
 }
