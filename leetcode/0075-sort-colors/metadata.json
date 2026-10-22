@@ -14,11 +14,11 @@
   ],
   "companyTags": [],
   "language": "python",
-  "runtime": "9 ms",
-  "memory": "12.6 MB",
-  "submissionId": "2178645749",
-  "acceptedAt": "2026-10-22T08:17:32.314Z",
-  "updatedAt": "2026-10-22T08:17:33.275Z",
+  "runtime": "0 ms",
+  "memory": "12.1 MB",
+  "submissionId": "2178646620",
+  "acceptedAt": "2026-10-22T08:19:14.833Z",
+  "updatedAt": "2026-10-22T08:19:15.401Z",
   "url": "https://leetcode.com/problems/sort-colors/",
-  "version": 1
+  "version": 2
 }
