@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**9** problems solved — 4 Easy · 5 Medium · 0 Hard
+**10** problems solved — 4 Easy · 6 Medium · 0 Hard
 
 ## Contents
 
@@ -16,6 +16,7 @@
 | --- | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | Array, String, Trie |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | Array, Two Pointers |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium | Array, Greedy |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | Hash Table, String, Sorting |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
@@ -35,10 +36,11 @@
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Hash Table, String, Sorting |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
-### Medium (5)
+### Medium (6)
 
 | # | Title | Topics |
 | --- | --- | --- |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Array, Greedy |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Array, Dynamic Programming, Knapsack Problem, Complete Knapsack |
@@ -52,12 +54,13 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (8)</summary>
+<summary>Array (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
@@ -73,6 +76,15 @@ _No problems solved yet._
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Bubble Sort (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 
 </details>
 
@@ -171,6 +183,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Quicksort (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Radix Sort (1)</summary>
 
 | # | Title | Difficulty |
@@ -189,10 +210,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (3)</summary>
+<summary>Sorting (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
@@ -219,11 +241,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Two Pointers (2)</summary>
+<summary>Two Pointers (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
 
 </details>
@@ -231,12 +254,13 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (9)</summary>
+<summary>python (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
@@ -251,6 +275,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | 2026-10-22 |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium | 2026-10-22 |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium | 2026-10-22 |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium | 2026-10-21 |

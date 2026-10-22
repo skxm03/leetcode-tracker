@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "problemId": "75",
+  "frontendId": "75",
+  "title": "Sort Colors",
+  "slug": "sort-colors",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Sorting",
+    "Quicksort",
+    "Bubble Sort"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "9 ms",
+  "memory": "12.6 MB",
+  "submissionId": "2178645749",
+  "acceptedAt": "2026-10-22T08:17:32.314Z",
+  "updatedAt": "2026-10-22T08:17:33.275Z",
+  "url": "https://leetcode.com/problems/sort-colors/",
+  "version": 1
+}

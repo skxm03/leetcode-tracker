@@ -7,7 +7,8 @@
     "leetcode/0322-coin-change",
     "leetcode/0518-coin-change-ii",
     "leetcode/0948-bag-of-tokens",
-    "leetcode/0134-gas-station"
+    "leetcode/0134-gas-station",
+    "leetcode/0075-sort-colors"
   ],
   "Simulation": [
     "leetcode/1929-concatenation-of-array"
@@ -22,14 +23,16 @@
   "Sorting": [
     "leetcode/0242-valid-anagram",
     "leetcode/0912-sort-an-array",
-    "leetcode/0948-bag-of-tokens"
+    "leetcode/0948-bag-of-tokens",
+    "leetcode/0075-sort-colors"
   ],
   "Trie": [
     "leetcode/0014-longest-common-prefix"
   ],
   "Two Pointers": [
     "leetcode/0027-remove-element",
-    "leetcode/0948-bag-of-tokens"
+    "leetcode/0948-bag-of-tokens",
+    "leetcode/0075-sort-colors"
   ],
   "Divide and Conquer": [
     "leetcode/0912-sort-an-array"
@@ -67,5 +70,11 @@
   "Greedy": [
     "leetcode/0948-bag-of-tokens",
     "leetcode/0134-gas-station"
+  ],
+  "Quicksort": [
+    "leetcode/0075-sort-colors"
+  ],
+  "Bubble Sort": [
+    "leetcode/0075-sort-colors"
   ]
 }
