@@ -6,7 +6,8 @@
     "leetcode/0912-sort-an-array",
     "leetcode/0322-coin-change",
     "leetcode/0518-coin-change-ii",
-    "leetcode/0948-bag-of-tokens"
+    "leetcode/0948-bag-of-tokens",
+    "leetcode/0134-gas-station"
   ],
   "Simulation": [
     "leetcode/1929-concatenation-of-array"
@@ -64,6 +65,7 @@
     "leetcode/0518-coin-change-ii"
   ],
   "Greedy": [
-    "leetcode/0948-bag-of-tokens"
+    "leetcode/0948-bag-of-tokens",
+    "leetcode/0134-gas-station"
   ]
 }
