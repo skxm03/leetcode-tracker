@@ -1,0 +1,27 @@
+{
+  "platform": "leetcode",
+  "problemId": "347",
+  "frontendId": "347",
+  "title": "Top K Frequent Elements",
+  "slug": "top-k-frequent-elements",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Bucket Sort",
+    "Counting",
+    "Quickselect"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "5 ms",
+  "memory": "13.9 MB",
+  "submissionId": "2179845816",
+  "acceptedAt": "2026-10-23T16:55:01.983Z",
+  "updatedAt": "2026-10-23T16:55:03.084Z",
+  "url": "https://leetcode.com/problems/top-k-frequent-elements/",
+  "version": 1
+}
