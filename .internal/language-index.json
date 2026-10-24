@@ -12,6 +12,7 @@
     "leetcode/0075-sort-colors",
     "leetcode/0347-top-k-frequent-elements",
     "leetcode/0238-product-of-array-except-self",
-    "leetcode/0036-valid-sudoku"
+    "leetcode/0036-valid-sudoku",
+    "leetcode/0122-best-time-to-buy-and-sell-stock-ii"
   ]
 }

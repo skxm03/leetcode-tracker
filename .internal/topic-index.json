@@ -11,7 +11,8 @@
     "leetcode/0075-sort-colors",
     "leetcode/0347-top-k-frequent-elements",
     "leetcode/0238-product-of-array-except-self",
-    "leetcode/0036-valid-sudoku"
+    "leetcode/0036-valid-sudoku",
+    "leetcode/0122-best-time-to-buy-and-sell-stock-ii"
   ],
   "Simulation": [
     "leetcode/1929-concatenation-of-array"
@@ -63,7 +64,8 @@
   ],
   "Dynamic Programming": [
     "leetcode/0322-coin-change",
-    "leetcode/0518-coin-change-ii"
+    "leetcode/0518-coin-change-ii",
+    "leetcode/0122-best-time-to-buy-and-sell-stock-ii"
   ],
   "Breadth-First Search": [
     "leetcode/0322-coin-change"
@@ -78,7 +80,8 @@
   ],
   "Greedy": [
     "leetcode/0948-bag-of-tokens",
-    "leetcode/0134-gas-station"
+    "leetcode/0134-gas-station",
+    "leetcode/0122-best-time-to-buy-and-sell-stock-ii"
   ],
   "Quicksort": [
     "leetcode/0075-sort-colors"

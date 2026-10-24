@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "122",
+  "frontendId": "122",
+  "title": "Best Time to Buy and Sell Stock II",
+  "slug": "best-time-to-buy-and-sell-stock-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "3 ms",
+  "memory": "13.8 MB",
+  "submissionId": "2180404918",
+  "acceptedAt": "2026-10-24T12:11:15.143Z",
+  "updatedAt": "2026-10-24T12:11:15.903Z",
+  "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
+  "version": 1
+}
