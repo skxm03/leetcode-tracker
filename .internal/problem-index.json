@@ -178,5 +178,19 @@
     ],
     "language": "python",
     "acceptedAt": "2026-10-23T17:00:39.578Z"
+  },
+  {
+    "folderId": "leetcode/0036-valid-sudoku",
+    "frontendId": "36",
+    "title": "Valid Sudoku",
+    "slug": "valid-sudoku",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-10-24T12:04:38.777Z"
   }
 ]

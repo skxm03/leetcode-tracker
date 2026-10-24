@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "36",
+  "frontendId": "36",
+  "title": "Valid Sudoku",
+  "slug": "valid-sudoku",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Matrix"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "17 ms",
+  "memory": "12.2 MB",
+  "submissionId": "2180401132",
+  "acceptedAt": "2026-10-24T12:04:38.777Z",
+  "updatedAt": "2026-10-24T12:04:39.580Z",
+  "url": "https://leetcode.com/problems/valid-sudoku/",
+  "version": 1
+}

@@ -10,14 +10,16 @@
     "leetcode/0134-gas-station",
     "leetcode/0075-sort-colors",
     "leetcode/0347-top-k-frequent-elements",
-    "leetcode/0238-product-of-array-except-self"
+    "leetcode/0238-product-of-array-except-self",
+    "leetcode/0036-valid-sudoku"
   ],
   "Simulation": [
     "leetcode/1929-concatenation-of-array"
   ],
   "Hash Table": [
     "leetcode/0242-valid-anagram",
-    "leetcode/0347-top-k-frequent-elements"
+    "leetcode/0347-top-k-frequent-elements",
+    "leetcode/0036-valid-sudoku"
   ],
   "String": [
     "leetcode/0242-valid-anagram",
@@ -92,5 +94,8 @@
   ],
   "Prefix Sum": [
     "leetcode/0238-product-of-array-except-self"
+  ],
+  "Matrix": [
+    "leetcode/0036-valid-sudoku"
   ]
 }

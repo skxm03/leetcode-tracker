@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**12** problems solved — 4 Easy · 8 Medium · 0 Hard
+**13** problems solved — 4 Easy · 9 Medium · 0 Hard
 
 ## Contents
 
@@ -16,6 +16,7 @@
 | --- | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | Array, String, Trie |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | Array, Two Pointers |
+| 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | Array, Hash Table, Matrix |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium | Array, Greedy |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | Array, Prefix Sum |
@@ -38,10 +39,11 @@
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Hash Table, String, Sorting |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
-### Medium (8)
+### Medium (9)
 
 | # | Title | Topics |
 | --- | --- | --- |
+| 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Array, Hash Table, Matrix |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Array, Greedy |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Array, Prefix Sum |
@@ -58,12 +60,13 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (11)</summary>
+<summary>Array (12)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
+| 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
@@ -163,10 +166,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Hash Table (2)</summary>
+<summary>Hash Table (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 
@@ -189,6 +193,15 @@ _No problems solved yet._
 | --- | --- | --- |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Matrix (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 
 </details>
 
@@ -292,12 +305,13 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (12)</summary>
+<summary>python (13)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
+| 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
@@ -315,6 +329,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | 2026-10-24 |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | 2026-10-23 |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium | 2026-10-23 |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | 2026-10-22 |
