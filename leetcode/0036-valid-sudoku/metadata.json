@@ -12,11 +12,11 @@
   ],
   "companyTags": [],
   "language": "python",
-  "runtime": "17 ms",
+  "runtime": "4 ms",
   "memory": "12.2 MB",
-  "submissionId": "2180401132",
-  "acceptedAt": "2026-10-24T12:04:38.777Z",
-  "updatedAt": "2026-10-24T12:04:39.580Z",
+  "submissionId": "2180402434",
+  "acceptedAt": "2026-10-24T12:06:51.471Z",
+  "updatedAt": "2026-10-24T12:06:52.001Z",
   "url": "https://leetcode.com/problems/valid-sudoku/",
-  "version": 1
+  "version": 2
 }
