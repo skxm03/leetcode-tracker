@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**14** problems solved — 4 Easy · 10 Medium · 0 Hard
+**15** problems solved — 4 Easy · 11 Medium · 0 Hard
 
 ## Contents
 
@@ -20,6 +20,7 @@
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium | Array, Dynamic Programming, Greedy |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium | Array, Greedy |
+| 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium | Array, Hash Table, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | Array, Prefix Sum |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | Hash Table, String, Sorting |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
@@ -40,7 +41,7 @@
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Hash Table, String, Sorting |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
-### Medium (10)
+### Medium (11)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -48,6 +49,7 @@
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Array, Dynamic Programming, Greedy |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Array, Greedy |
+| 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Array, Hash Table, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Array, Prefix Sum |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
@@ -62,7 +64,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (13)</summary>
+<summary>Array (14)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -72,6 +74,7 @@ _No problems solved yet._
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
+| 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
@@ -79,6 +82,15 @@ _No problems solved yet._
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Boyer–Moore Majority Vote Algorithm (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 
 </details>
 
@@ -121,10 +133,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Counting (1)</summary>
+<summary>Counting (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 
 </details>
@@ -171,11 +184,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Hash Table (3)</summary>
+<summary>Hash Table (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
+| 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 
@@ -265,11 +279,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (5)</summary>
+<summary>Sorting (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
+| 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
@@ -310,7 +325,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (14)</summary>
+<summary>python (15)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -320,6 +335,7 @@ _No problems solved yet._
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
+| 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
@@ -335,6 +351,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium | 2026-10-24 |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium | 2026-10-24 |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | 2026-10-24 |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | 2026-10-23 |
