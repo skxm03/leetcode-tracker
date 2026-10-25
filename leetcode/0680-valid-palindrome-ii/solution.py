@@ -1,5 +1,5 @@
-# Runtime: 43 ms
-# Memory: 12.8 MB
+# Runtime: 36 ms
+# Memory: 12.5 MB
 
 class Solution(object):
     def validPalindrome(self, s):

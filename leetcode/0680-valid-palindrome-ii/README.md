@@ -6,9 +6,9 @@
 
 | Field | Value |
 | --- | --- |
-| Runtime | 43 ms |
-| Memory | 12.8 MB |
-| Submission Date | 2026-10-25T15:47:38.737Z |
+| Runtime | 36 ms |
+| Memory | 12.5 MB |
+| Submission Date | 2026-10-25T16:21:21.714Z |
 | Platform | leetcode |
 
 ## Problem Statement
@@ -16,48 +16,29 @@
 <p>Given a string <code>s</code>, return <code>true</code> <em>if the </em><code>s</code><em> can be palindrome after deleting <strong>at most one</strong> character from it</em>.</p>
 
 <p>&nbsp;</p>
-<p>
 
 ## Examples
 
 **Example 1:**
 
 ```
-</p>
-
-<pre>
-<strong>Input:</strong> s = &quot;aba&quot;
-<strong>Output:</strong> true
-</pre>
-
-<p>
+Input: s = "aba"
+Output: true
 ```
 
 **Example 2:**
 
 ```
-</p>
-
-<pre>
-<strong>Input:</strong> s = &quot;abca&quot;
-<strong>Output:</strong> true
-<strong>Explanation:</strong> You could delete the character &#39;c&#39;.
-</pre>
-
-<p>
+Input: s = "abca"
+Output: true
+Explanation: You could delete the character 'c'.
 ```
 
 **Example 3:**
 
 ```
-</p>
-
-<pre>
-<strong>Input:</strong> s = &quot;abc&quot;
-<strong>Output:</strong> false
-</pre>
-
-<p>&nbsp;</p>
+Input: s = "abc"
+Output: false
 ```
 
 ## Constraints

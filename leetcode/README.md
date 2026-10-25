@@ -372,8 +372,8 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
-| 0001 | [Two Sum](0001-two-sum/README.md) | Easy | 2026-10-25 |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy | 2026-10-25 |
+| 0001 | [Two Sum](0001-two-sum/README.md) | Easy | 2026-10-25 |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy | 2026-10-25 |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | 2026-10-25 |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium | 2026-10-24 |
