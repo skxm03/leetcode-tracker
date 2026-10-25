@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**15** problems solved — 4 Easy · 11 Medium · 0 Hard
+**16** problems solved — 5 Easy · 11 Medium · 0 Hard
 
 ## Contents
 
@@ -24,6 +24,7 @@
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | Array, Prefix Sum |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | Hash Table, String, Sorting |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
+| 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | Two Pointers, String |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium | Array, Dynamic Programming, Knapsack Problem, Complete Knapsack |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
@@ -32,13 +33,14 @@
 
 ## By Difficulty
 
-### Easy (4)
+### Easy (5)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Array, String, Trie |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Hash Table, String, Sorting |
+| 0344 | [Reverse String](0344-reverse-string/README.md) | Two Pointers, String |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
 ### Medium (11)
@@ -293,12 +295,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (2)</summary>
+<summary>String (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
+| 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 
 </details>
 
@@ -312,12 +315,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Two Pointers (3)</summary>
+<summary>Two Pointers (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
+| 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
 
 </details>
@@ -325,7 +329,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (15)</summary>
+<summary>python (16)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -339,6 +343,7 @@ _No problems solved yet._
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
+| 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
@@ -351,6 +356,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | 2026-10-25 |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium | 2026-10-24 |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium | 2026-10-24 |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | 2026-10-24 |
@@ -365,4 +371,3 @@ _No problems solved yet._
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | 2026-10-20 |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | 2026-10-20 |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | 2026-10-19 |
-| 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy | 2026-10-19 |
