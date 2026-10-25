@@ -6,9 +6,9 @@
 
 | Field | Value |
 | --- | --- |
-| Runtime | 2153 ms |
-| Memory | 13 MB |
-| Submission Date | 2026-10-25T16:10:18.819Z |
+| Runtime | 2158 ms |
+| Memory | 12.6 MB |
+| Submission Date | 2026-10-25T16:12:14.739Z |
 | Platform | leetcode |
 
 ## Problem Statement
@@ -68,17 +68,10 @@ _No examples provided._
 ```py
 class Solution(object):
     def twoSum(self, nums, target):
-        k = True
-        for i in range(0, len(nums)):
-            if k == False:
-                break
+        for i in range(len(nums)):
             for j in range(i+1, len(nums)):
-                if nums[i]+nums[j] == target:
+                if nums[i] + nums[j] == target:
                     return [i, j]
-                    k = False
-                    break
-                else:
-                    continue
         
         
 ```
