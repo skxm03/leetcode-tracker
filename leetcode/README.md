@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**17** problems solved — 6 Easy · 11 Medium · 0 Hard
+**18** problems solved — 7 Easy · 11 Medium · 0 Hard
 
 ## Contents
 
@@ -28,13 +28,14 @@
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | Two Pointers, String |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium | Array, Dynamic Programming, Knapsack Problem, Complete Knapsack |
+| 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy | Two Pointers, String, Greedy |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy | Array, Simulation |
 
 ## By Difficulty
 
-### Easy (6)
+### Easy (7)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -43,6 +44,7 @@
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Two Pointers, String |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Hash Table, String, Sorting |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Two Pointers, String |
+| 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Two Pointers, String, Greedy |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
 ### Medium (11)
@@ -177,12 +179,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Greedy (3)</summary>
+<summary>Greedy (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
+| 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
 
 </details>
@@ -297,7 +300,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (4)</summary>
+<summary>String (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -305,6 +308,7 @@ _No problems solved yet._
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
+| 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
 
 </details>
 
@@ -318,7 +322,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Two Pointers (5)</summary>
+<summary>Two Pointers (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -326,6 +330,7 @@ _No problems solved yet._
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
+| 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
 
 </details>
@@ -333,7 +338,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (17)</summary>
+<summary>python (18)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -351,6 +356,7 @@ _No problems solved yet._
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
+| 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy |
@@ -361,6 +367,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy | 2026-10-25 |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy | 2026-10-25 |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | 2026-10-25 |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium | 2026-10-24 |
@@ -375,4 +382,3 @@ _No problems solved yet._
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | 2026-10-21 |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | 2026-10-20 |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | 2026-10-20 |
-| 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | 2026-10-20 |

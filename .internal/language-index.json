@@ -16,6 +16,7 @@
     "leetcode/0122-best-time-to-buy-and-sell-stock-ii",
     "leetcode/0229-majority-element-ii",
     "leetcode/0344-reverse-string",
-    "leetcode/0125-valid-palindrome"
+    "leetcode/0125-valid-palindrome",
+    "leetcode/0680-valid-palindrome-ii"
   ]
 }
