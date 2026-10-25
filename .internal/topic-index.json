@@ -27,7 +27,8 @@
   "String": [
     "leetcode/0242-valid-anagram",
     "leetcode/0014-longest-common-prefix",
-    "leetcode/0344-reverse-string"
+    "leetcode/0344-reverse-string",
+    "leetcode/0125-valid-palindrome"
   ],
   "Sorting": [
     "leetcode/0242-valid-anagram",
@@ -44,7 +45,8 @@
     "leetcode/0027-remove-element",
     "leetcode/0948-bag-of-tokens",
     "leetcode/0075-sort-colors",
-    "leetcode/0344-reverse-string"
+    "leetcode/0344-reverse-string",
+    "leetcode/0125-valid-palindrome"
   ],
   "Divide and Conquer": [
     "leetcode/0912-sort-an-array",

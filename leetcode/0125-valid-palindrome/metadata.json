@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "125",
+  "frontendId": "125",
+  "title": "Valid Palindrome",
+  "slug": "valid-palindrome",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "14 ms",
+  "memory": "14.5 MB",
+  "submissionId": "2181513076",
+  "acceptedAt": "2026-10-25T15:41:20.129Z",
+  "updatedAt": "2026-10-25T15:41:20.880Z",
+  "url": "https://leetcode.com/problems/valid-palindrome/",
+  "version": 1
+}

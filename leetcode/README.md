@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**16** problems solved — 5 Easy · 11 Medium · 0 Hard
+**17** problems solved — 6 Easy · 11 Medium · 0 Hard
 
 ## Contents
 
@@ -19,6 +19,7 @@
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | Array, Hash Table, Matrix |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium | Array, Dynamic Programming, Greedy |
+| 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy | Two Pointers, String |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium | Array, Greedy |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium | Array, Hash Table, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | Array, Prefix Sum |
@@ -33,12 +34,13 @@
 
 ## By Difficulty
 
-### Easy (5)
+### Easy (6)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Array, String, Trie |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
+| 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Two Pointers, String |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Hash Table, String, Sorting |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Two Pointers, String |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
@@ -295,11 +297,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (3)</summary>
+<summary>String (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
+| 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 
@@ -315,12 +318,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Two Pointers (4)</summary>
+<summary>Two Pointers (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
+| 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
 
@@ -329,7 +333,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (16)</summary>
+<summary>python (17)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -338,6 +342,7 @@ _No problems solved yet._
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
+| 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
@@ -356,6 +361,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy | 2026-10-25 |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | 2026-10-25 |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium | 2026-10-24 |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium | 2026-10-24 |
@@ -370,4 +376,3 @@ _No problems solved yet._
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | 2026-10-20 |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | 2026-10-20 |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | 2026-10-20 |
-| 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | 2026-10-19 |
