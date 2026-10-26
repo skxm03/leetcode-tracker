@@ -18,6 +18,7 @@
     "leetcode/0344-reverse-string",
     "leetcode/0125-valid-palindrome",
     "leetcode/0680-valid-palindrome-ii",
-    "leetcode/0001-two-sum"
+    "leetcode/0001-two-sum",
+    "leetcode/0088-merge-sorted-array"
   ]
 }
