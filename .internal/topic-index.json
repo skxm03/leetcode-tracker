@@ -15,7 +15,8 @@
     "leetcode/0122-best-time-to-buy-and-sell-stock-ii",
     "leetcode/0229-majority-element-ii",
     "leetcode/0001-two-sum",
-    "leetcode/0088-merge-sorted-array"
+    "leetcode/0088-merge-sorted-array",
+    "leetcode/0026-remove-duplicates-from-sorted-array"
   ],
   "Simulation": [
     "leetcode/1929-concatenation-of-array"
@@ -53,7 +54,8 @@
     "leetcode/0344-reverse-string",
     "leetcode/0125-valid-palindrome",
     "leetcode/0680-valid-palindrome-ii",
-    "leetcode/0088-merge-sorted-array"
+    "leetcode/0088-merge-sorted-array",
+    "leetcode/0026-remove-duplicates-from-sorted-array"
   ],
   "Divide and Conquer": [
     "leetcode/0912-sort-an-array",

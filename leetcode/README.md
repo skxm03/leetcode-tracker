@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**20** problems solved — 9 Easy · 11 Medium · 0 Hard
+**21** problems solved — 10 Easy · 11 Medium · 0 Hard
 
 ## Contents
 
@@ -16,6 +16,7 @@
 | --- | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy | Array, Hash Table |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | Array, String, Trie |
+| 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy | Array, Two Pointers |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | Array, Two Pointers |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | Array, Hash Table, Matrix |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
@@ -37,12 +38,13 @@
 
 ## By Difficulty
 
-### Easy (9)
+### Easy (10)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Array, Hash Table |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Array, String, Trie |
+| 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Array, Two Pointers |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Array, Two Pointers, Sorting |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Two Pointers, String |
@@ -74,12 +76,13 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (16)</summary>
+<summary>Array (17)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
+| 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
@@ -330,10 +333,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Two Pointers (7)</summary>
+<summary>Two Pointers (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
@@ -347,12 +351,13 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (20)</summary>
+<summary>python (21)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
+| 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
@@ -378,6 +383,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy | 2026-10-26 |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy | 2026-10-26 |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy | 2026-10-25 |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy | 2026-10-25 |
@@ -392,4 +398,3 @@ _No problems solved yet._
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium | 2026-10-22 |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium | 2026-10-22 |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium | 2026-10-21 |
-| 0322 | [Coin Change](0322-coin-change/README.md) | Medium | 2026-10-21 |

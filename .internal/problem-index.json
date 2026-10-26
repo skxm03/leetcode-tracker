@@ -289,5 +289,18 @@
     ],
     "language": "python",
     "acceptedAt": "2026-10-26T12:54:52.587Z"
+  },
+  {
+    "folderId": "leetcode/0026-remove-duplicates-from-sorted-array",
+    "frontendId": "26",
+    "title": "Remove Duplicates from Sorted Array",
+    "slug": "remove-duplicates-from-sorted-array",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-10-26T13:04:01.861Z"
   }
 ]
