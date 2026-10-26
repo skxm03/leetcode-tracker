@@ -6,9 +6,9 @@
 
 | Field | Value |
 | --- | --- |
-| Runtime | 65 ms |
-| Memory | 13 MB |
-| Submission Date | 2026-10-26T13:04:01.861Z |
+| Runtime | 2 ms |
+| Memory | 13.8 MB |
+| Submission Date | 2026-10-26T13:07:26.670Z |
 | Platform | leetcode |
 
 ## Problem Statement
@@ -68,18 +68,28 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 ## Solution
 
 ```py
+# class Solution(object):
+#     def removeDuplicates(self, nums):
+#         i = 1
+#         while i != len(nums):
+#             if nums[i-1] == nums[i]:
+#                 nums.pop(i)
+#             else:
+#                 i += 1
+#         return len(nums)
+
+
 class Solution(object):
     def removeDuplicates(self, nums):
         i = 1
-        while i != len(nums):
-            if nums[i-1] == nums[i]:
-                nums.pop(i)
-            else:
-                i += 1
-        return len(nums)
 
-        
-        
+        for j in range(1, len(nums)):
+            if nums[j] != nums[i - 1]:
+                nums[i] = nums[j]
+                i += 1
+
+        return i
+
 ```
 
 [View on LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
