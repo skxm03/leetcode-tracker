@@ -17,7 +17,8 @@
     "leetcode/0001-two-sum",
     "leetcode/0088-merge-sorted-array",
     "leetcode/0026-remove-duplicates-from-sorted-array",
-    "leetcode/0435-non-overlapping-intervals"
+    "leetcode/0435-non-overlapping-intervals",
+    "leetcode/0056-merge-intervals"
   ],
   "Simulation": [
     "leetcode/1929-concatenation-of-array"
@@ -44,7 +45,8 @@
     "leetcode/0347-top-k-frequent-elements",
     "leetcode/0229-majority-element-ii",
     "leetcode/0088-merge-sorted-array",
-    "leetcode/0435-non-overlapping-intervals"
+    "leetcode/0435-non-overlapping-intervals",
+    "leetcode/0056-merge-intervals"
   ],
   "Trie": [
     "leetcode/0014-longest-common-prefix"
@@ -105,7 +107,8 @@
     "leetcode/0435-non-overlapping-intervals"
   ],
   "Quicksort": [
-    "leetcode/0075-sort-colors"
+    "leetcode/0075-sort-colors",
+    "leetcode/0056-merge-intervals"
   ],
   "Bubble Sort": [
     "leetcode/0075-sort-colors"

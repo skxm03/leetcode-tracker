@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "56",
+  "frontendId": "56",
+  "title": "Merge Intervals",
+  "slug": "merge-intervals",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Sorting",
+    "Quicksort"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "13 ms",
+  "memory": "16.7 MB",
+  "submissionId": "2182745788",
+  "acceptedAt": "2026-10-27T03:57:33.537Z",
+  "updatedAt": "2026-10-27T03:57:34.994Z",
+  "url": "https://leetcode.com/problems/merge-intervals/",
+  "version": 1
+}

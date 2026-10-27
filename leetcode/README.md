@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**22** problems solved — 10 Easy · 12 Medium · 0 Hard
+**23** problems solved — 10 Easy · 13 Medium · 0 Hard
 
 ## Contents
 
@@ -19,6 +19,7 @@
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy | Array, Two Pointers |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | Array, Two Pointers |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | Array, Hash Table, Matrix |
+| 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium | Array, Sorting, Quicksort |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy | Array, Two Pointers, Sorting |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium | Array, Dynamic Programming, Greedy |
@@ -54,11 +55,12 @@
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Two Pointers, String, Greedy |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
-### Medium (12)
+### Medium (13)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Array, Hash Table, Matrix |
+| 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Array, Sorting, Quicksort |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Array, Dynamic Programming, Greedy |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Array, Greedy |
@@ -78,7 +80,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (18)</summary>
+<summary>Array (19)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -87,6 +89,7 @@ _No problems solved yet._
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
+| 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
@@ -274,10 +277,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Quicksort (1)</summary>
+<summary>Quicksort (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 
 </details>
@@ -301,10 +305,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (8)</summary>
+<summary>Sorting (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
@@ -357,7 +362,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (22)</summary>
+<summary>python (23)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -366,6 +371,7 @@ _No problems solved yet._
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
+| 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
@@ -390,6 +396,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium | 2026-10-27 |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium | 2026-10-27 |
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy | 2026-10-26 |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy | 2026-10-26 |
@@ -404,4 +411,3 @@ _No problems solved yet._
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium | 2026-10-23 |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | 2026-10-22 |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium | 2026-10-22 |
-| 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium | 2026-10-22 |
