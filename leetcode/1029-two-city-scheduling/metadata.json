@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "problemId": "1095",
+  "frontendId": "1029",
+  "title": "Two City Scheduling",
+  "slug": "two-city-scheduling",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Hungarian Algorithm",
+    "Successive Shortest Path Algorithm"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "1 ms",
+  "memory": "12.3 MB",
+  "submissionId": "2182748456",
+  "acceptedAt": "2026-10-27T04:02:15.913Z",
+  "updatedAt": "2026-10-27T04:02:16.726Z",
+  "url": "https://leetcode.com/problems/two-city-scheduling/",
+  "version": 1
+}

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**23** problems solved — 10 Easy · 13 Medium · 0 Hard
+**24** problems solved — 10 Easy · 14 Medium · 0 Hard
 
 ## Contents
 
@@ -36,6 +36,7 @@
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy | Two Pointers, String, Greedy |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
+| 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium | Array, Greedy, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy | Array, Simulation |
 
 ## By Difficulty
@@ -55,7 +56,7 @@
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Two Pointers, String, Greedy |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
-### Medium (13)
+### Medium (14)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -72,6 +73,7 @@
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Array, Dynamic Programming, Knapsack Problem, Complete Knapsack |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Array, Two Pointers, Greedy, Sorting |
+| 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Array, Greedy, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm |
 
 ### Hard (0)
 
@@ -80,7 +82,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (19)</summary>
+<summary>Array (20)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -102,6 +104,7 @@ _No problems solved yet._
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
+| 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy |
 
 </details>
@@ -195,7 +198,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Greedy (5)</summary>
+<summary>Greedy (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -204,6 +207,7 @@ _No problems solved yet._
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
+| 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 
 </details>
 
@@ -227,6 +231,15 @@ _No problems solved yet._
 | --- | --- | --- |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Hungarian Algorithm (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 
 </details>
 
@@ -305,7 +318,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (9)</summary>
+<summary>Sorting (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -318,6 +331,7 @@ _No problems solved yet._
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
+| 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 
 </details>
 
@@ -331,6 +345,15 @@ _No problems solved yet._
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Successive Shortest Path Algorithm (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 
 </details>
 
@@ -362,7 +385,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (23)</summary>
+<summary>python (24)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -388,6 +411,7 @@ _No problems solved yet._
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
+| 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy |
 
 </details>
@@ -396,6 +420,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium | 2026-10-27 |
 | 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium | 2026-10-27 |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium | 2026-10-27 |
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy | 2026-10-26 |
@@ -410,4 +435,3 @@ _No problems solved yet._
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | 2026-10-23 |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium | 2026-10-23 |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | 2026-10-22 |
-| 0134 | [Gas Station](0134-gas-station/README.md) | Medium | 2026-10-22 |
