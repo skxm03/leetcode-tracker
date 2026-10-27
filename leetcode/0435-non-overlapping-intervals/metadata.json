@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "435",
+  "frontendId": "435",
+  "title": "Non-overlapping Intervals",
+  "slug": "non-overlapping-intervals",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy",
+    "Sorting"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "153 ms",
+  "memory": "45.2 MB",
+  "submissionId": "2182739743",
+  "acceptedAt": "2026-10-27T03:46:18.190Z",
+  "updatedAt": "2026-10-27T03:46:19.049Z",
+  "url": "https://leetcode.com/problems/non-overlapping-intervals/",
+  "version": 1
+}

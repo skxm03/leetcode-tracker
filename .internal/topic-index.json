@@ -16,7 +16,8 @@
     "leetcode/0229-majority-element-ii",
     "leetcode/0001-two-sum",
     "leetcode/0088-merge-sorted-array",
-    "leetcode/0026-remove-duplicates-from-sorted-array"
+    "leetcode/0026-remove-duplicates-from-sorted-array",
+    "leetcode/0435-non-overlapping-intervals"
   ],
   "Simulation": [
     "leetcode/1929-concatenation-of-array"
@@ -42,7 +43,8 @@
     "leetcode/0075-sort-colors",
     "leetcode/0347-top-k-frequent-elements",
     "leetcode/0229-majority-element-ii",
-    "leetcode/0088-merge-sorted-array"
+    "leetcode/0088-merge-sorted-array",
+    "leetcode/0435-non-overlapping-intervals"
   ],
   "Trie": [
     "leetcode/0014-longest-common-prefix"
@@ -81,7 +83,8 @@
   "Dynamic Programming": [
     "leetcode/0322-coin-change",
     "leetcode/0518-coin-change-ii",
-    "leetcode/0122-best-time-to-buy-and-sell-stock-ii"
+    "leetcode/0122-best-time-to-buy-and-sell-stock-ii",
+    "leetcode/0435-non-overlapping-intervals"
   ],
   "Breadth-First Search": [
     "leetcode/0322-coin-change"
@@ -98,7 +101,8 @@
     "leetcode/0948-bag-of-tokens",
     "leetcode/0134-gas-station",
     "leetcode/0122-best-time-to-buy-and-sell-stock-ii",
-    "leetcode/0680-valid-palindrome-ii"
+    "leetcode/0680-valid-palindrome-ii",
+    "leetcode/0435-non-overlapping-intervals"
   ],
   "Quicksort": [
     "leetcode/0075-sort-colors"
