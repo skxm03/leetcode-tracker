@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**25** problems solved — 10 Easy · 15 Medium · 0 Hard
+**26** problems solved — 10 Easy · 16 Medium · 0 Hard
 
 ## Contents
 
@@ -37,6 +37,7 @@
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium | Array, Greedy, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm |
+| 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy | Array, Simulation |
 
@@ -57,7 +58,7 @@
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Two Pointers, String, Greedy |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
-### Medium (15)
+### Medium (16)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -75,6 +76,7 @@
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Array, Two Pointers, Greedy, Sorting |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Array, Greedy, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm |
+| 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Array, Two Pointers, Greedy, Sorting |
 
 ### Hard (0)
@@ -84,7 +86,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (21)</summary>
+<summary>Array (22)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -107,6 +109,7 @@ _No problems solved yet._
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
+| 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy |
 
@@ -201,7 +204,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Greedy (7)</summary>
+<summary>Greedy (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -211,12 +214,13 @@ _No problems solved yet._
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
+| 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 
 </details>
 
 <details>
-<summary>Hash Table (5)</summary>
+<summary>Hash Table (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -225,16 +229,18 @@ _No problems solved yet._
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
+| 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 
 </details>
 
 <details>
-<summary>Heap (Priority Queue) (2)</summary>
+<summary>Heap (Priority Queue) (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
+| 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 
 </details>
 
@@ -322,7 +328,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (11)</summary>
+<summary>Sorting (12)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -336,6 +342,7 @@ _No problems solved yet._
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
+| 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 
 </details>
@@ -391,7 +398,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (25)</summary>
+<summary>python (26)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -418,6 +425,7 @@ _No problems solved yet._
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
+| 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy |
 
@@ -427,6 +435,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | 2026-10-28 |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | 2026-10-28 |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium | 2026-10-27 |
 | 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium | 2026-10-27 |
@@ -441,4 +450,3 @@ _No problems solved yet._
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium | 2026-10-24 |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | 2026-10-24 |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | 2026-10-23 |
-| 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium | 2026-10-23 |
