@@ -23,6 +23,7 @@
     "leetcode/0026-remove-duplicates-from-sorted-array",
     "leetcode/0435-non-overlapping-intervals",
     "leetcode/0056-merge-intervals",
-    "leetcode/1029-two-city-scheduling"
+    "leetcode/1029-two-city-scheduling",
+    "leetcode/1877-minimize-maximum-pair-sum-in-array"
   ]
 }

@@ -19,7 +19,8 @@
     "leetcode/0026-remove-duplicates-from-sorted-array",
     "leetcode/0435-non-overlapping-intervals",
     "leetcode/0056-merge-intervals",
-    "leetcode/1029-two-city-scheduling"
+    "leetcode/1029-two-city-scheduling",
+    "leetcode/1877-minimize-maximum-pair-sum-in-array"
   ],
   "Simulation": [
     "leetcode/1929-concatenation-of-array"
@@ -48,7 +49,8 @@
     "leetcode/0088-merge-sorted-array",
     "leetcode/0435-non-overlapping-intervals",
     "leetcode/0056-merge-intervals",
-    "leetcode/1029-two-city-scheduling"
+    "leetcode/1029-two-city-scheduling",
+    "leetcode/1877-minimize-maximum-pair-sum-in-array"
   ],
   "Trie": [
     "leetcode/0014-longest-common-prefix"
@@ -61,7 +63,8 @@
     "leetcode/0125-valid-palindrome",
     "leetcode/0680-valid-palindrome-ii",
     "leetcode/0088-merge-sorted-array",
-    "leetcode/0026-remove-duplicates-from-sorted-array"
+    "leetcode/0026-remove-duplicates-from-sorted-array",
+    "leetcode/1877-minimize-maximum-pair-sum-in-array"
   ],
   "Divide and Conquer": [
     "leetcode/0912-sort-an-array",
@@ -107,7 +110,8 @@
     "leetcode/0122-best-time-to-buy-and-sell-stock-ii",
     "leetcode/0680-valid-palindrome-ii",
     "leetcode/0435-non-overlapping-intervals",
-    "leetcode/1029-two-city-scheduling"
+    "leetcode/1029-two-city-scheduling",
+    "leetcode/1877-minimize-maximum-pair-sum-in-array"
   ],
   "Quicksort": [
     "leetcode/0075-sort-colors",

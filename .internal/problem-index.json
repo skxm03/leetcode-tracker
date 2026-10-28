@@ -347,5 +347,20 @@
     ],
     "language": "python",
     "acceptedAt": "2026-10-27T04:02:15.913Z"
+  },
+  {
+    "folderId": "leetcode/1877-minimize-maximum-pair-sum-in-array",
+    "frontendId": "1877",
+    "title": "Minimize Maximum Pair Sum in Array",
+    "slug": "minimize-maximum-pair-sum-in-array",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-10-28T03:41:22.238Z"
   }
 ]
