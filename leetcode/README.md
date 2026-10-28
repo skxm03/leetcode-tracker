@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**26** problems solved — 10 Easy · 16 Medium · 0 Hard
+**27** problems solved — 10 Easy · 17 Medium · 0 Hard
 
 ## Contents
 
@@ -32,6 +32,7 @@
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | Two Pointers, String |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium | Array, Dynamic Programming, Greedy, Sorting |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium | Array, Dynamic Programming, Knapsack Problem, Complete Knapsack |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy | Two Pointers, String, Greedy |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
@@ -58,7 +59,7 @@
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Two Pointers, String, Greedy |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
-### Medium (16)
+### Medium (17)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -72,6 +73,7 @@
 | 0322 | [Coin Change](0322-coin-change/README.md) | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Array, Dynamic Programming, Greedy, Sorting |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Array, Dynamic Programming, Knapsack Problem, Complete Knapsack |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Array, Two Pointers, Greedy, Sorting |
@@ -143,11 +145,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Bucket Sort (2)</summary>
+<summary>Bucket Sort (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 
 </details>
@@ -163,12 +166,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Counting (2)</summary>
+<summary>Counting (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 
 </details>
 
@@ -220,7 +224,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Hash Table (6)</summary>
+<summary>Hash Table (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -229,16 +233,18 @@ _No problems solved yet._
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 
 </details>
 
 <details>
-<summary>Heap (Priority Queue) (3)</summary>
+<summary>Heap (Priority Queue) (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 
@@ -328,7 +334,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (12)</summary>
+<summary>Sorting (13)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -339,6 +345,7 @@ _No problems solved yet._
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
@@ -348,7 +355,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (5)</summary>
+<summary>String (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -356,6 +363,7 @@ _No problems solved yet._
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
 
 </details>
@@ -398,7 +406,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (26)</summary>
+<summary>python (27)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -420,6 +428,7 @@ _No problems solved yet._
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
@@ -435,6 +444,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | 2026-10-28 |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | 2026-10-28 |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | 2026-10-28 |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium | 2026-10-27 |
@@ -449,4 +459,3 @@ _No problems solved yet._
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium | 2026-10-24 |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium | 2026-10-24 |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | 2026-10-24 |
-| 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | 2026-10-23 |
