@@ -1,18 +1,13 @@
-# Runtime: 1123 ms
-# Memory: 24.6 MB
+# Runtime: 1146 ms
+# Memory: 24.7 MB
 
 class Solution(object):
     def minPairSum(self, nums):
         nums.sort()
-        max = float("-inf")
-        i, j = 0, len(nums)-1
-        while i < j:
-            if nums[i] + nums[j] > max:
-                max = nums[i] + nums[j]
-            i += 1
-            j -= 1
-        return max
+        n = len(nums)
+        ans = 0
 
+        for i in range(n // 2):
+            ans = max(ans, nums[i] + nums[n - 1 - i])
 
-
-        
+        return ans

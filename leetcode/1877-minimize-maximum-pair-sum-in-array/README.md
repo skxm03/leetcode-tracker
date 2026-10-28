@@ -6,9 +6,9 @@
 
 | Field | Value |
 | --- | --- |
-| Runtime | 1123 ms |
-| Memory | 24.6 MB |
-| Submission Date | 2026-10-28T03:41:22.238Z |
+| Runtime | 1146 ms |
+| Memory | 24.7 MB |
+| Submission Date | 2026-10-28T03:42:29.515Z |
 | Platform | leetcode |
 
 ## Problem Statement
@@ -63,18 +63,14 @@ The maximum pair sum is max(3+5, 4+4, 6+2) = max(8, 8, 8) = 8.
 class Solution(object):
     def minPairSum(self, nums):
         nums.sort()
-        max = float("-inf")
-        i, j = 0, len(nums)-1
-        while i < j:
-            if nums[i] + nums[j] > max:
-                max = nums[i] + nums[j]
-            i += 1
-            j -= 1
-        return max
+        n = len(nums)
+        ans = 0
 
+        for i in range(n // 2):
+            ans = max(ans, nums[i] + nums[n - 1 - i])
 
+        return ans
 
-        
 ```
 
 [View on LeetCode](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)
