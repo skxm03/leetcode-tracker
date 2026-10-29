@@ -409,5 +409,19 @@
     ],
     "language": "python",
     "acceptedAt": "2026-10-29T08:49:51.529Z"
+  },
+  {
+    "folderId": "leetcode/2279-maximum-bags-with-full-capacity-of-rocks",
+    "frontendId": "2279",
+    "title": "Maximum Bags With Full Capacity of Rocks",
+    "slug": "maximum-bags-with-full-capacity-of-rocks",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-10-29T12:48:52.759Z"
   }
 ]
