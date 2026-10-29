@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**27** problems solved — 10 Easy · 17 Medium · 0 Hard
+**28** problems solved — 10 Easy · 18 Medium · 0 Hard
 
 ## Contents
 
@@ -41,6 +41,7 @@
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy | Array, Simulation |
+| 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium | Array, Greedy, Heap (Priority Queue) |
 
 ## By Difficulty
 
@@ -59,7 +60,7 @@
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Two Pointers, String, Greedy |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
-### Medium (17)
+### Medium (18)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -80,6 +81,7 @@
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Array, Greedy, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Array, Two Pointers, Greedy, Sorting |
+| 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Array, Greedy, Heap (Priority Queue) |
 
 ### Hard (0)
 
@@ -88,7 +90,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (22)</summary>
+<summary>Array (23)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -114,6 +116,7 @@ _No problems solved yet._
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy |
+| 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium |
 
 </details>
 
@@ -208,7 +211,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Greedy (8)</summary>
+<summary>Greedy (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -220,6 +223,7 @@ _No problems solved yet._
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
+| 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium |
 
 </details>
 
@@ -239,7 +243,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Heap (Priority Queue) (4)</summary>
+<summary>Heap (Priority Queue) (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -247,6 +251,7 @@ _No problems solved yet._
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
+| 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium |
 
 </details>
 
@@ -406,7 +411,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (27)</summary>
+<summary>python (28)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -437,6 +442,7 @@ _No problems solved yet._
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy |
+| 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium |
 
 </details>
 
@@ -444,6 +450,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium | 2026-10-29 |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | 2026-10-28 |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | 2026-10-28 |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | 2026-10-28 |
@@ -458,4 +465,3 @@ _No problems solved yet._
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | 2026-10-25 |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium | 2026-10-24 |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium | 2026-10-24 |
-| 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | 2026-10-24 |

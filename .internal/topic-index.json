@@ -21,7 +21,8 @@
     "leetcode/0056-merge-intervals",
     "leetcode/1029-two-city-scheduling",
     "leetcode/1877-minimize-maximum-pair-sum-in-array",
-    "leetcode/1338-reduce-array-size-to-the-half"
+    "leetcode/1338-reduce-array-size-to-the-half",
+    "leetcode/2208-minimum-operations-to-halve-array-sum"
   ],
   "Simulation": [
     "leetcode/1929-concatenation-of-array"
@@ -80,7 +81,8 @@
     "leetcode/0912-sort-an-array",
     "leetcode/0347-top-k-frequent-elements",
     "leetcode/1338-reduce-array-size-to-the-half",
-    "leetcode/0451-sort-characters-by-frequency"
+    "leetcode/0451-sort-characters-by-frequency",
+    "leetcode/2208-minimum-operations-to-halve-array-sum"
   ],
   "Merge Sort": [
     "leetcode/0912-sort-an-array"
@@ -121,7 +123,8 @@
     "leetcode/0435-non-overlapping-intervals",
     "leetcode/1029-two-city-scheduling",
     "leetcode/1877-minimize-maximum-pair-sum-in-array",
-    "leetcode/1338-reduce-array-size-to-the-half"
+    "leetcode/1338-reduce-array-size-to-the-half",
+    "leetcode/2208-minimum-operations-to-halve-array-sum"
   ],
   "Quicksort": [
     "leetcode/0075-sort-colors",
