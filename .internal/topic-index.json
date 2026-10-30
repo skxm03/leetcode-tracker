@@ -23,7 +23,8 @@
     "leetcode/1877-minimize-maximum-pair-sum-in-array",
     "leetcode/1338-reduce-array-size-to-the-half",
     "leetcode/2208-minimum-operations-to-halve-array-sum",
-    "leetcode/2279-maximum-bags-with-full-capacity-of-rocks"
+    "leetcode/2279-maximum-bags-with-full-capacity-of-rocks",
+    "leetcode/0860-lemonade-change"
   ],
   "Simulation": [
     "leetcode/1929-concatenation-of-array"
@@ -127,7 +128,8 @@
     "leetcode/1877-minimize-maximum-pair-sum-in-array",
     "leetcode/1338-reduce-array-size-to-the-half",
     "leetcode/2208-minimum-operations-to-halve-array-sum",
-    "leetcode/2279-maximum-bags-with-full-capacity-of-rocks"
+    "leetcode/2279-maximum-bags-with-full-capacity-of-rocks",
+    "leetcode/0860-lemonade-change"
   ],
   "Quicksort": [
     "leetcode/0075-sort-colors",

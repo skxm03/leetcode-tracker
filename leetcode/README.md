@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**29** problems solved — 10 Easy · 19 Medium · 0 Hard
+**30** problems solved — 11 Easy · 19 Medium · 0 Hard
 
 ## Contents
 
@@ -35,6 +35,7 @@
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium | Array, Dynamic Programming, Knapsack Problem, Complete Knapsack |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy | Two Pointers, String, Greedy |
+| 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | Array, Greedy |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium | Array, Greedy, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm |
@@ -46,7 +47,7 @@
 
 ## By Difficulty
 
-### Easy (10)
+### Easy (11)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -59,6 +60,7 @@
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Hash Table, String, Sorting |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Two Pointers, String |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Two Pointers, String, Greedy |
+| 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
 ### Medium (19)
@@ -92,7 +94,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (24)</summary>
+<summary>Array (25)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -112,6 +114,7 @@ _No problems solved yet._
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
+| 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
@@ -214,7 +217,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Greedy (10)</summary>
+<summary>Greedy (11)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -222,6 +225,7 @@ _No problems solved yet._
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
+| 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
@@ -416,7 +420,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (29)</summary>
+<summary>python (30)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -441,6 +445,7 @@ _No problems solved yet._
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
+| 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
@@ -456,6 +461,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | 2026-10-30 |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](2279-maximum-bags-with-full-capacity-of-rocks/README.md) | Medium | 2026-10-29 |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium | 2026-10-29 |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | 2026-10-28 |
@@ -470,4 +476,3 @@ _No problems solved yet._
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy | 2026-10-25 |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy | 2026-10-25 |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | 2026-10-25 |
-| 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium | 2026-10-24 |
