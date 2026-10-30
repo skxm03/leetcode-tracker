@@ -29,6 +29,7 @@
     "leetcode/0451-sort-characters-by-frequency",
     "leetcode/2208-minimum-operations-to-halve-array-sum",
     "leetcode/2279-maximum-bags-with-full-capacity-of-rocks",
-    "leetcode/0860-lemonade-change"
+    "leetcode/0860-lemonade-change",
+    "leetcode/0881-boats-to-save-people"
   ]
 }

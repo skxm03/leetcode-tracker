@@ -24,7 +24,8 @@
     "leetcode/1338-reduce-array-size-to-the-half",
     "leetcode/2208-minimum-operations-to-halve-array-sum",
     "leetcode/2279-maximum-bags-with-full-capacity-of-rocks",
-    "leetcode/0860-lemonade-change"
+    "leetcode/0860-lemonade-change",
+    "leetcode/0881-boats-to-save-people"
   ],
   "Simulation": [
     "leetcode/1929-concatenation-of-array"
@@ -60,7 +61,8 @@
     "leetcode/1877-minimize-maximum-pair-sum-in-array",
     "leetcode/1338-reduce-array-size-to-the-half",
     "leetcode/0451-sort-characters-by-frequency",
-    "leetcode/2279-maximum-bags-with-full-capacity-of-rocks"
+    "leetcode/2279-maximum-bags-with-full-capacity-of-rocks",
+    "leetcode/0881-boats-to-save-people"
   ],
   "Trie": [
     "leetcode/0014-longest-common-prefix"
@@ -74,7 +76,8 @@
     "leetcode/0680-valid-palindrome-ii",
     "leetcode/0088-merge-sorted-array",
     "leetcode/0026-remove-duplicates-from-sorted-array",
-    "leetcode/1877-minimize-maximum-pair-sum-in-array"
+    "leetcode/1877-minimize-maximum-pair-sum-in-array",
+    "leetcode/0881-boats-to-save-people"
   ],
   "Divide and Conquer": [
     "leetcode/0912-sort-an-array",
@@ -129,7 +132,8 @@
     "leetcode/1338-reduce-array-size-to-the-half",
     "leetcode/2208-minimum-operations-to-halve-array-sum",
     "leetcode/2279-maximum-bags-with-full-capacity-of-rocks",
-    "leetcode/0860-lemonade-change"
+    "leetcode/0860-lemonade-change",
+    "leetcode/0881-boats-to-save-people"
   ],
   "Quicksort": [
     "leetcode/0075-sort-colors",
@@ -160,5 +164,8 @@
   ],
   "Successive Shortest Path Algorithm": [
     "leetcode/1029-two-city-scheduling"
+  ],
+  "Timsort": [
+    "leetcode/0881-boats-to-save-people"
   ]
 }

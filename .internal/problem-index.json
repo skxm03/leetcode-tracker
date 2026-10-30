@@ -436,5 +436,21 @@
     ],
     "language": "python",
     "acceptedAt": "2026-10-30T08:25:46.782Z"
+  },
+  {
+    "folderId": "leetcode/0881-boats-to-save-people",
+    "frontendId": "881",
+    "title": "Boats to Save People",
+    "slug": "boats-to-save-people",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Timsort"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-10-30T09:00:25.163Z"
   }
 ]
