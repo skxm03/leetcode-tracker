@@ -452,5 +452,18 @@
     ],
     "language": "python",
     "acceptedAt": "2026-10-30T09:00:25.163Z"
+  },
+  {
+    "folderId": "leetcode/0135-candy",
+    "frontendId": "135",
+    "title": "Candy",
+    "slug": "candy",
+    "difficulty": "Hard",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-10-31T13:50:21.162Z"
   }
 ]

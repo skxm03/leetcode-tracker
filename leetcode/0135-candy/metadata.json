@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "135",
+  "frontendId": "135",
+  "title": "Candy",
+  "slug": "candy",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Greedy"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "75 ms",
+  "memory": "17.4 MB",
+  "submissionId": "2186224016",
+  "acceptedAt": "2026-10-31T13:50:21.162Z",
+  "updatedAt": "2026-10-31T13:50:22.612Z",
+  "url": "https://leetcode.com/problems/candy/",
+  "version": 1
+}

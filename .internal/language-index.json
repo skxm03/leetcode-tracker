@@ -30,6 +30,7 @@
     "leetcode/2208-minimum-operations-to-halve-array-sum",
     "leetcode/2279-maximum-bags-with-full-capacity-of-rocks",
     "leetcode/0860-lemonade-change",
-    "leetcode/0881-boats-to-save-people"
+    "leetcode/0881-boats-to-save-people",
+    "leetcode/0135-candy"
   ]
 }

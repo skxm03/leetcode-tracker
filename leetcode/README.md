@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**31** problems solved — 11 Easy · 20 Medium · 0 Hard
+**32** problems solved — 11 Easy · 20 Medium · 1 Hard
 
 ## Contents
 
@@ -25,6 +25,7 @@
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium | Array, Dynamic Programming, Greedy |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy | Two Pointers, String |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium | Array, Greedy |
+| 0135 | [Candy](0135-candy/README.md) | Hard | Array, Greedy |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium | Array, Hash Table, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | Array, Prefix Sum |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | Hash Table, String, Sorting |
@@ -89,14 +90,16 @@
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Array, Greedy, Heap (Priority Queue) |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](2279-maximum-bags-with-full-capacity-of-rocks/README.md) | Array, Greedy, Sorting |
 
-### Hard (0)
+### Hard (1)
 
-_No problems solved yet._
+| # | Title | Topics |
+| --- | --- | --- |
+| 0135 | [Candy](0135-candy/README.md) | Array, Greedy |
 
 ## By Topic
 
 <details>
-<summary>Array (26)</summary>
+<summary>Array (27)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -110,6 +113,7 @@ _No problems solved yet._
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
+| 0135 | [Candy](0135-candy/README.md) | Hard |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
@@ -220,12 +224,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Greedy (12)</summary>
+<summary>Greedy (13)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
+| 0135 | [Candy](0135-candy/README.md) | Hard |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
@@ -435,7 +440,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (31)</summary>
+<summary>python (32)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -450,6 +455,7 @@ _No problems solved yet._
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
+| 0135 | [Candy](0135-candy/README.md) | Hard |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
@@ -477,6 +483,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0135 | [Candy](0135-candy/README.md) | Hard | 2026-10-31 |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium | 2026-10-30 |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | 2026-10-30 |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](2279-maximum-bags-with-full-capacity-of-rocks/README.md) | Medium | 2026-10-29 |
@@ -491,4 +498,3 @@ _No problems solved yet._
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy | 2026-10-26 |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy | 2026-10-25 |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy | 2026-10-25 |
-| 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy | 2026-10-25 |
