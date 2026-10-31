@@ -46,7 +46,8 @@
     "leetcode/0344-reverse-string",
     "leetcode/0125-valid-palindrome",
     "leetcode/0680-valid-palindrome-ii",
-    "leetcode/0451-sort-characters-by-frequency"
+    "leetcode/0451-sort-characters-by-frequency",
+    "leetcode/1529-minimum-suffix-flips"
   ],
   "Sorting": [
     "leetcode/0242-valid-anagram",
@@ -135,7 +136,8 @@
     "leetcode/2279-maximum-bags-with-full-capacity-of-rocks",
     "leetcode/0860-lemonade-change",
     "leetcode/0881-boats-to-save-people",
-    "leetcode/0135-candy"
+    "leetcode/0135-candy",
+    "leetcode/1529-minimum-suffix-flips"
   ],
   "Quicksort": [
     "leetcode/0075-sort-colors",

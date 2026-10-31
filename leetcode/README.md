@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**32** problems solved — 11 Easy · 20 Medium · 1 Hard
+**33** problems solved — 11 Easy · 21 Medium · 1 Hard
 
 ## Contents
 
@@ -42,6 +42,7 @@
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium | Array, Greedy, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) |
+| 1529 | [Minimum Suffix Flips](1529-minimum-suffix-flips/README.md) | Medium | String, Greedy |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy | Array, Simulation |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium | Array, Greedy, Heap (Priority Queue) |
@@ -65,7 +66,7 @@
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
-### Medium (20)
+### Medium (21)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -86,6 +87,7 @@
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Array, Two Pointers, Greedy, Sorting |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Array, Greedy, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) |
+| 1529 | [Minimum Suffix Flips](1529-minimum-suffix-flips/README.md) | String, Greedy |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Array, Two Pointers, Greedy, Sorting |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Array, Greedy, Heap (Priority Queue) |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](2279-maximum-bags-with-full-capacity-of-rocks/README.md) | Array, Greedy, Sorting |
@@ -224,7 +226,7 @@
 </details>
 
 <details>
-<summary>Greedy (13)</summary>
+<summary>Greedy (14)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -238,6 +240,7 @@
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
+| 1529 | [Minimum Suffix Flips](1529-minimum-suffix-flips/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](2279-maximum-bags-with-full-capacity-of-rocks/README.md) | Medium |
@@ -379,7 +382,7 @@
 </details>
 
 <details>
-<summary>String (6)</summary>
+<summary>String (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -389,6 +392,7 @@
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
+| 1529 | [Minimum Suffix Flips](1529-minimum-suffix-flips/README.md) | Medium |
 
 </details>
 
@@ -440,7 +444,7 @@
 ## By Language
 
 <details>
-<summary>python (32)</summary>
+<summary>python (33)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -472,6 +476,7 @@
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
+| 1529 | [Minimum Suffix Flips](1529-minimum-suffix-flips/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium |
@@ -483,6 +488,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1529 | [Minimum Suffix Flips](1529-minimum-suffix-flips/README.md) | Medium | 2026-10-31 |
 | 0135 | [Candy](0135-candy/README.md) | Hard | 2026-10-31 |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium | 2026-10-30 |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | 2026-10-30 |
@@ -497,4 +503,3 @@
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy | 2026-10-26 |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy | 2026-10-26 |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy | 2026-10-25 |
-| 0001 | [Two Sum](0001-two-sum/README.md) | Easy | 2026-10-25 |

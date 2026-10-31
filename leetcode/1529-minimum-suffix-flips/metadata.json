@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "1652",
+  "frontendId": "1529",
+  "title": "Minimum Suffix Flips",
+  "slug": "minimum-suffix-flips",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Greedy"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "21 ms",
+  "memory": "12.4 MB",
+  "submissionId": "2186225201",
+  "acceptedAt": "2026-10-31T13:51:59.562Z",
+  "updatedAt": "2026-10-31T13:52:00.565Z",
+  "url": "https://leetcode.com/problems/minimum-suffix-flips/",
+  "version": 1
+}

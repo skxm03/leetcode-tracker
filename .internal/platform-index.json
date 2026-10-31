@@ -31,6 +31,7 @@
     "leetcode/2279-maximum-bags-with-full-capacity-of-rocks",
     "leetcode/0860-lemonade-change",
     "leetcode/0881-boats-to-save-people",
-    "leetcode/0135-candy"
+    "leetcode/0135-candy",
+    "leetcode/1529-minimum-suffix-flips"
   ]
 }
