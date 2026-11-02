@@ -33,6 +33,7 @@
     "leetcode/0881-boats-to-save-people",
     "leetcode/0135-candy",
     "leetcode/1529-minimum-suffix-flips",
-    "leetcode/0062-unique-paths"
+    "leetcode/0062-unique-paths",
+    "leetcode/0070-climbing-stairs"
   ]
 }

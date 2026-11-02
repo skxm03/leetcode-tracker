@@ -111,7 +111,8 @@
     "leetcode/0518-coin-change-ii",
     "leetcode/0122-best-time-to-buy-and-sell-stock-ii",
     "leetcode/0435-non-overlapping-intervals",
-    "leetcode/0062-unique-paths"
+    "leetcode/0062-unique-paths",
+    "leetcode/0070-climbing-stairs"
   ],
   "Breadth-First Search": [
     "leetcode/0322-coin-change"
@@ -174,9 +175,13 @@
     "leetcode/0881-boats-to-save-people"
   ],
   "Math": [
-    "leetcode/0062-unique-paths"
+    "leetcode/0062-unique-paths",
+    "leetcode/0070-climbing-stairs"
   ],
   "Combinatorics": [
     "leetcode/0062-unique-paths"
+  ],
+  "Memoization": [
+    "leetcode/0070-climbing-stairs"
   ]
 }

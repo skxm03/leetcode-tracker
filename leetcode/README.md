@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**34** problems solved — 11 Easy · 22 Medium · 1 Hard
+**35** problems solved — 12 Easy · 22 Medium · 1 Hard
 
 ## Contents
 
@@ -21,6 +21,7 @@
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | Array, Hash Table, Matrix |
 | 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium | Array, Sorting, Quicksort |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | Math, Dynamic Programming, Combinatorics |
+| 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy | Math, Dynamic Programming, Memoization |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy | Array, Two Pointers, Sorting |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium | Array, Dynamic Programming, Greedy |
@@ -51,7 +52,7 @@
 
 ## By Difficulty
 
-### Easy (11)
+### Easy (12)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -59,6 +60,7 @@
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Array, String, Trie |
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Array, Two Pointers |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
+| 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Math, Dynamic Programming, Memoization |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Array, Two Pointers, Sorting |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Two Pointers, String |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Hash Table, String, Sorting |
@@ -225,11 +227,12 @@
 </details>
 
 <details>
-<summary>Dynamic Programming (5)</summary>
+<summary>Dynamic Programming (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
+| 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
@@ -307,11 +310,12 @@
 </details>
 
 <details>
-<summary>Math (1)</summary>
+<summary>Math (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
+| 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy |
 
 </details>
 
@@ -321,6 +325,15 @@
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Memoization (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy |
 
 </details>
 
@@ -465,7 +478,7 @@
 ## By Language
 
 <details>
-<summary>python (34)</summary>
+<summary>python (35)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -476,6 +489,7 @@
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
+| 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
@@ -510,6 +524,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy | 2026-11-02 |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | 2026-11-02 |
 | 1529 | [Minimum Suffix Flips](1529-minimum-suffix-flips/README.md) | Medium | 2026-10-31 |
 | 0135 | [Candy](0135-candy/README.md) | Hard | 2026-10-31 |
@@ -524,4 +539,3 @@
 | 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium | 2026-10-27 |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium | 2026-10-27 |
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy | 2026-10-26 |
-| 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy | 2026-10-26 |
