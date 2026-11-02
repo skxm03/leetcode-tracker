@@ -34,6 +34,7 @@
     "leetcode/0135-candy",
     "leetcode/1529-minimum-suffix-flips",
     "leetcode/0062-unique-paths",
-    "leetcode/0070-climbing-stairs"
+    "leetcode/0070-climbing-stairs",
+    "leetcode/0746-min-cost-climbing-stairs"
   ]
 }

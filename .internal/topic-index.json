@@ -26,7 +26,8 @@
     "leetcode/2279-maximum-bags-with-full-capacity-of-rocks",
     "leetcode/0860-lemonade-change",
     "leetcode/0881-boats-to-save-people",
-    "leetcode/0135-candy"
+    "leetcode/0135-candy",
+    "leetcode/0746-min-cost-climbing-stairs"
   ],
   "Simulation": [
     "leetcode/1929-concatenation-of-array"
@@ -112,7 +113,8 @@
     "leetcode/0122-best-time-to-buy-and-sell-stock-ii",
     "leetcode/0435-non-overlapping-intervals",
     "leetcode/0062-unique-paths",
-    "leetcode/0070-climbing-stairs"
+    "leetcode/0070-climbing-stairs",
+    "leetcode/0746-min-cost-climbing-stairs"
   ],
   "Breadth-First Search": [
     "leetcode/0322-coin-change"
