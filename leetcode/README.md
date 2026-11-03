@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**37** problems solved — 13 Easy · 23 Medium · 1 Hard
+**38** problems solved — 13 Easy · 24 Medium · 1 Hard
 
 ## Contents
 
@@ -22,6 +22,7 @@
 | 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium | Array, Sorting, Quicksort |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | Math, Dynamic Programming, Combinatorics |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | Array, Dynamic Programming, Matrix |
+| 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium | Array, Dynamic Programming, Matrix |
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy | Math, Dynamic Programming, Memoization |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy | Array, Two Pointers, Sorting |
@@ -72,7 +73,7 @@
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
-### Medium (23)
+### Medium (24)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -80,6 +81,7 @@
 | 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Array, Sorting, Quicksort |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Math, Dynamic Programming, Combinatorics |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Array, Dynamic Programming, Matrix |
+| 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Array, Dynamic Programming, Matrix |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Array, Dynamic Programming, Greedy |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Array, Greedy |
@@ -109,7 +111,7 @@
 ## By Topic
 
 <details>
-<summary>Array (29)</summary>
+<summary>Array (30)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -120,6 +122,7 @@
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
+| 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
@@ -233,12 +236,13 @@
 </details>
 
 <details>
-<summary>Dynamic Programming (8)</summary>
+<summary>Dynamic Programming (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
+| 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium |
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
@@ -328,12 +332,13 @@
 </details>
 
 <details>
-<summary>Matrix (2)</summary>
+<summary>Matrix (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
+| 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium |
 
 </details>
 
@@ -487,7 +492,7 @@
 ## By Language
 
 <details>
-<summary>python (37)</summary>
+<summary>python (38)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -499,6 +504,7 @@
 | 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
+| 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium |
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
@@ -535,6 +541,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium | 2026-11-03 |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | 2026-11-03 |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy | 2026-11-02 |
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy | 2026-11-02 |
@@ -549,4 +556,3 @@
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | 2026-10-28 |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | 2026-10-28 |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium | 2026-10-27 |
-| 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium | 2026-10-27 |

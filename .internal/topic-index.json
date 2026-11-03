@@ -28,7 +28,8 @@
     "leetcode/0881-boats-to-save-people",
     "leetcode/0135-candy",
     "leetcode/0746-min-cost-climbing-stairs",
-    "leetcode/0063-unique-paths-ii"
+    "leetcode/0063-unique-paths-ii",
+    "leetcode/0064-minimum-path-sum"
   ],
   "Simulation": [
     "leetcode/1929-concatenation-of-array"
@@ -116,7 +117,8 @@
     "leetcode/0062-unique-paths",
     "leetcode/0070-climbing-stairs",
     "leetcode/0746-min-cost-climbing-stairs",
-    "leetcode/0063-unique-paths-ii"
+    "leetcode/0063-unique-paths-ii",
+    "leetcode/0064-minimum-path-sum"
   ],
   "Breadth-First Search": [
     "leetcode/0322-coin-change"
@@ -165,7 +167,8 @@
   ],
   "Matrix": [
     "leetcode/0036-valid-sudoku",
-    "leetcode/0063-unique-paths-ii"
+    "leetcode/0063-unique-paths-ii",
+    "leetcode/0064-minimum-path-sum"
   ],
   "Boyer–Moore Majority Vote Algorithm": [
     "leetcode/0229-majority-element-ii"

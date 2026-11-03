@@ -36,6 +36,7 @@
     "leetcode/0062-unique-paths",
     "leetcode/0070-climbing-stairs",
     "leetcode/0746-min-cost-climbing-stairs",
-    "leetcode/0063-unique-paths-ii"
+    "leetcode/0063-unique-paths-ii",
+    "leetcode/0064-minimum-path-sum"
   ]
 }
