@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "63",
+  "frontendId": "63",
+  "title": "Unique Paths II",
+  "slug": "unique-paths-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "1 ms",
+  "memory": "12.1 MB",
+  "submissionId": "2188240011",
+  "acceptedAt": "2026-11-03T03:55:09.807Z",
+  "updatedAt": "2026-11-03T03:55:11.681Z",
+  "url": "https://leetcode.com/problems/unique-paths-ii/",
+  "version": 1
+}
