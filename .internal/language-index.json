@@ -38,6 +38,7 @@
     "leetcode/0746-min-cost-climbing-stairs",
     "leetcode/0063-unique-paths-ii",
     "leetcode/0064-minimum-path-sum",
-    "leetcode/1143-longest-common-subsequence"
+    "leetcode/1143-longest-common-subsequence",
+    "leetcode/1035-uncrossed-lines"
   ]
 }

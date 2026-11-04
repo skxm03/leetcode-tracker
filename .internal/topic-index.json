@@ -29,7 +29,8 @@
     "leetcode/0135-candy",
     "leetcode/0746-min-cost-climbing-stairs",
     "leetcode/0063-unique-paths-ii",
-    "leetcode/0064-minimum-path-sum"
+    "leetcode/0064-minimum-path-sum",
+    "leetcode/1035-uncrossed-lines"
   ],
   "Simulation": [
     "leetcode/1929-concatenation-of-array"
@@ -120,7 +121,8 @@
     "leetcode/0746-min-cost-climbing-stairs",
     "leetcode/0063-unique-paths-ii",
     "leetcode/0064-minimum-path-sum",
-    "leetcode/1143-longest-common-subsequence"
+    "leetcode/1143-longest-common-subsequence",
+    "leetcode/1035-uncrossed-lines"
   ],
   "Breadth-First Search": [
     "leetcode/0322-coin-change"
@@ -195,6 +197,7 @@
     "leetcode/0070-climbing-stairs"
   ],
   "Longest Common Subsequence": [
-    "leetcode/1143-longest-common-subsequence"
+    "leetcode/1143-longest-common-subsequence",
+    "leetcode/1035-uncrossed-lines"
   ]
 }

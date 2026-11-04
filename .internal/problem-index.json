@@ -561,5 +561,19 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-04T04:21:01.024Z"
+  },
+  {
+    "folderId": "leetcode/1035-uncrossed-lines",
+    "frontendId": "1035",
+    "title": "Uncrossed Lines",
+    "slug": "uncrossed-lines",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Longest Common Subsequence"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-04T04:36:59.950Z"
   }
 ]
