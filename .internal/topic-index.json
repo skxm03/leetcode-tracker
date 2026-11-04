@@ -50,7 +50,8 @@
     "leetcode/0125-valid-palindrome",
     "leetcode/0680-valid-palindrome-ii",
     "leetcode/0451-sort-characters-by-frequency",
-    "leetcode/1529-minimum-suffix-flips"
+    "leetcode/1529-minimum-suffix-flips",
+    "leetcode/1143-longest-common-subsequence"
   ],
   "Sorting": [
     "leetcode/0242-valid-anagram",
@@ -118,7 +119,8 @@
     "leetcode/0070-climbing-stairs",
     "leetcode/0746-min-cost-climbing-stairs",
     "leetcode/0063-unique-paths-ii",
-    "leetcode/0064-minimum-path-sum"
+    "leetcode/0064-minimum-path-sum",
+    "leetcode/1143-longest-common-subsequence"
   ],
   "Breadth-First Search": [
     "leetcode/0322-coin-change"
@@ -191,5 +193,8 @@
   ],
   "Memoization": [
     "leetcode/0070-climbing-stairs"
+  ],
+  "Longest Common Subsequence": [
+    "leetcode/1143-longest-common-subsequence"
   ]
 }

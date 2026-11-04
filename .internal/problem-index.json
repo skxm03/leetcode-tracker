@@ -547,5 +547,19 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-03T04:03:55.662Z"
+  },
+  {
+    "folderId": "leetcode/1143-longest-common-subsequence",
+    "frontendId": "1143",
+    "title": "Longest Common Subsequence",
+    "slug": "longest-common-subsequence",
+    "difficulty": "Medium",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Longest Common Subsequence"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-04T04:21:01.024Z"
   }
 ]

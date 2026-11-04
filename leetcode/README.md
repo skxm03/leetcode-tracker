@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**38** problems solved — 13 Easy · 24 Medium · 1 Hard
+**39** problems solved — 13 Easy · 25 Medium · 1 Hard
 
 ## Contents
 
@@ -46,6 +46,7 @@
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium | Array, Greedy, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm |
+| 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium | String, Dynamic Programming, Longest Common Subsequence |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) |
 | 1529 | [Minimum Suffix Flips](1529-minimum-suffix-flips/README.md) | Medium | String, Greedy |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
@@ -73,7 +74,7 @@
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
-### Medium (24)
+### Medium (25)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -96,6 +97,7 @@
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Array, Two Pointers, Greedy, Sorting |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Array, Greedy, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm |
+| 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | String, Dynamic Programming, Longest Common Subsequence |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) |
 | 1529 | [Minimum Suffix Flips](1529-minimum-suffix-flips/README.md) | String, Greedy |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Array, Two Pointers, Greedy, Sorting |
@@ -236,7 +238,7 @@
 </details>
 
 <details>
-<summary>Dynamic Programming (9)</summary>
+<summary>Dynamic Programming (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -249,6 +251,7 @@
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
+| 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
 
 </details>
 
@@ -318,6 +321,15 @@
 | --- | --- | --- |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Longest Common Subsequence (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
 
 </details>
 
@@ -430,7 +442,7 @@
 </details>
 
 <details>
-<summary>String (7)</summary>
+<summary>String (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -440,6 +452,7 @@
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
+| 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
 | 1529 | [Minimum Suffix Flips](1529-minimum-suffix-flips/README.md) | Medium |
 
 </details>
@@ -492,7 +505,7 @@
 ## By Language
 
 <details>
-<summary>python (38)</summary>
+<summary>python (39)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -528,6 +541,7 @@
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
+| 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1529 | [Minimum Suffix Flips](1529-minimum-suffix-flips/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
@@ -541,6 +555,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium | 2026-11-04 |
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium | 2026-11-03 |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | 2026-11-03 |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy | 2026-11-02 |
@@ -555,4 +570,3 @@
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | 2026-10-28 |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | 2026-10-28 |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | 2026-10-28 |
-| 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium | 2026-10-27 |
