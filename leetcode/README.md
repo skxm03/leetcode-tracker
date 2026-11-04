@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**40** problems solved — 13 Easy · 26 Medium · 1 Hard
+**41** problems solved — 13 Easy · 27 Medium · 1 Hard
 
 ## Contents
 
@@ -39,6 +39,7 @@
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium | Array, Dynamic Programming, Greedy, Sorting |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium | Array, Dynamic Programming, Knapsack Problem, Complete Knapsack |
+| 0583 | [Delete Operation for Two Strings](0583-delete-operation-for-two-strings/README.md) | Medium | String, Dynamic Programming, Longest Common Subsequence |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy | Two Pointers, String, Greedy |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy | Array, Dynamic Programming |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | Array, Greedy |
@@ -75,7 +76,7 @@
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
-### Medium (26)
+### Medium (27)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -94,6 +95,7 @@
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Array, Dynamic Programming, Greedy, Sorting |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Array, Dynamic Programming, Knapsack Problem, Complete Knapsack |
+| 0583 | [Delete Operation for Two Strings](0583-delete-operation-for-two-strings/README.md) | String, Dynamic Programming, Longest Common Subsequence |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Array, Two Pointers, Greedy, Sorting, Timsort |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Array, Two Pointers, Greedy, Sorting |
@@ -241,7 +243,7 @@
 </details>
 
 <details>
-<summary>Dynamic Programming (11)</summary>
+<summary>Dynamic Programming (12)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -253,6 +255,7 @@
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
+| 0583 | [Delete Operation for Two Strings](0583-delete-operation-for-two-strings/README.md) | Medium |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 | 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
@@ -329,10 +332,11 @@
 </details>
 
 <details>
-<summary>Longest Common Subsequence (2)</summary>
+<summary>Longest Common Subsequence (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0583 | [Delete Operation for Two Strings](0583-delete-operation-for-two-strings/README.md) | Medium |
 | 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
 
@@ -447,7 +451,7 @@
 </details>
 
 <details>
-<summary>String (8)</summary>
+<summary>String (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -456,6 +460,7 @@
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
+| 0583 | [Delete Operation for Two Strings](0583-delete-operation-for-two-strings/README.md) | Medium |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
 | 1529 | [Minimum Suffix Flips](1529-minimum-suffix-flips/README.md) | Medium |
@@ -510,7 +515,7 @@
 ## By Language
 
 <details>
-<summary>python (40)</summary>
+<summary>python (41)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -539,6 +544,7 @@
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
+| 0583 | [Delete Operation for Two Strings](0583-delete-operation-for-two-strings/README.md) | Medium |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
@@ -561,6 +567,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0583 | [Delete Operation for Two Strings](0583-delete-operation-for-two-strings/README.md) | Medium | 2026-11-04 |
 | 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium | 2026-11-04 |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium | 2026-11-04 |
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium | 2026-11-03 |
@@ -575,4 +582,3 @@
 | 2279 | [Maximum Bags With Full Capacity of Rocks](2279-maximum-bags-with-full-capacity-of-rocks/README.md) | Medium | 2026-10-29 |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium | 2026-10-29 |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | 2026-10-28 |
-| 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | 2026-10-28 |

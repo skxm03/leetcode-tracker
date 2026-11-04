@@ -575,5 +575,19 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-04T04:36:59.950Z"
+  },
+  {
+    "folderId": "leetcode/0583-delete-operation-for-two-strings",
+    "frontendId": "583",
+    "title": "Delete Operation for Two Strings",
+    "slug": "delete-operation-for-two-strings",
+    "difficulty": "Medium",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Longest Common Subsequence"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-04T04:44:30.385Z"
   }
 ]

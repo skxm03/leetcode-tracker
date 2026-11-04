@@ -52,7 +52,8 @@
     "leetcode/0680-valid-palindrome-ii",
     "leetcode/0451-sort-characters-by-frequency",
     "leetcode/1529-minimum-suffix-flips",
-    "leetcode/1143-longest-common-subsequence"
+    "leetcode/1143-longest-common-subsequence",
+    "leetcode/0583-delete-operation-for-two-strings"
   ],
   "Sorting": [
     "leetcode/0242-valid-anagram",
@@ -122,7 +123,8 @@
     "leetcode/0063-unique-paths-ii",
     "leetcode/0064-minimum-path-sum",
     "leetcode/1143-longest-common-subsequence",
-    "leetcode/1035-uncrossed-lines"
+    "leetcode/1035-uncrossed-lines",
+    "leetcode/0583-delete-operation-for-two-strings"
   ],
   "Breadth-First Search": [
     "leetcode/0322-coin-change"
@@ -198,6 +200,7 @@
   ],
   "Longest Common Subsequence": [
     "leetcode/1143-longest-common-subsequence",
-    "leetcode/1035-uncrossed-lines"
+    "leetcode/1035-uncrossed-lines",
+    "leetcode/0583-delete-operation-for-two-strings"
   ]
 }

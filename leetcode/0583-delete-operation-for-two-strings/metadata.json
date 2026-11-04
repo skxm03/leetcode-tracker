@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "583",
+  "frontendId": "583",
+  "title": "Delete Operation for Two Strings",
+  "slug": "delete-operation-for-two-strings",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Dynamic Programming",
+    "Longest Common Subsequence"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "181 ms",
+  "memory": "15.7 MB",
+  "submissionId": "2189078931",
+  "acceptedAt": "2026-11-04T04:44:30.385Z",
+  "updatedAt": "2026-11-04T04:44:31.250Z",
+  "url": "https://leetcode.com/problems/delete-operation-for-two-strings/",
+  "version": 1
+}
