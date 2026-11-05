@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "3938",
+  "frontendId": "3665",
+  "title": "Twisted Mirror Path Count",
+  "slug": "twisted-mirror-path-count",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "5876 ms",
+  "memory": "67.4 MB",
+  "submissionId": "2190263324",
+  "acceptedAt": "2026-11-05T17:51:12.888Z",
+  "updatedAt": "2026-11-05T17:51:14.278Z",
+  "url": "https://leetcode.com/problems/twisted-mirror-path-count/",
+  "version": 1
+}

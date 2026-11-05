@@ -589,5 +589,19 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-04T04:44:30.385Z"
+  },
+  {
+    "folderId": "leetcode/3665-twisted-mirror-path-count",
+    "frontendId": "3665",
+    "title": "Twisted Mirror Path Count",
+    "slug": "twisted-mirror-path-count",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-05T17:51:12.888Z"
   }
 ]

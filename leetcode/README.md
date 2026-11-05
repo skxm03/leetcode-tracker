@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**41** problems solved — 13 Easy · 27 Medium · 1 Hard
+**42** problems solved — 13 Easy · 28 Medium · 1 Hard
 
 ## Contents
 
@@ -55,6 +55,7 @@
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy | Array, Simulation |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium | Array, Greedy, Heap (Priority Queue) |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](2279-maximum-bags-with-full-capacity-of-rocks/README.md) | Medium | Array, Greedy, Sorting |
+| 3665 | [Twisted Mirror Path Count](3665-twisted-mirror-path-count/README.md) | Medium | Array, Dynamic Programming, Matrix |
 
 ## By Difficulty
 
@@ -76,7 +77,7 @@
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
-### Medium (27)
+### Medium (28)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -107,6 +108,7 @@
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Array, Two Pointers, Greedy, Sorting |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Array, Greedy, Heap (Priority Queue) |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](2279-maximum-bags-with-full-capacity-of-rocks/README.md) | Array, Greedy, Sorting |
+| 3665 | [Twisted Mirror Path Count](3665-twisted-mirror-path-count/README.md) | Array, Dynamic Programming, Matrix |
 
 ### Hard (1)
 
@@ -117,7 +119,7 @@
 ## By Topic
 
 <details>
-<summary>Array (31)</summary>
+<summary>Array (32)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -152,6 +154,7 @@
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](2279-maximum-bags-with-full-capacity-of-rocks/README.md) | Medium |
+| 3665 | [Twisted Mirror Path Count](3665-twisted-mirror-path-count/README.md) | Medium |
 
 </details>
 
@@ -243,7 +246,7 @@
 </details>
 
 <details>
-<summary>Dynamic Programming (12)</summary>
+<summary>Dynamic Programming (13)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -259,6 +262,7 @@
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 | 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
+| 3665 | [Twisted Mirror Path Count](3665-twisted-mirror-path-count/README.md) | Medium |
 
 </details>
 
@@ -353,13 +357,14 @@
 </details>
 
 <details>
-<summary>Matrix (3)</summary>
+<summary>Matrix (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium |
+| 3665 | [Twisted Mirror Path Count](3665-twisted-mirror-path-count/README.md) | Medium |
 
 </details>
 
@@ -515,7 +520,7 @@
 ## By Language
 
 <details>
-<summary>python (41)</summary>
+<summary>python (42)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -560,6 +565,7 @@
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](2279-maximum-bags-with-full-capacity-of-rocks/README.md) | Medium |
+| 3665 | [Twisted Mirror Path Count](3665-twisted-mirror-path-count/README.md) | Medium |
 
 </details>
 
@@ -567,6 +573,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 3665 | [Twisted Mirror Path Count](3665-twisted-mirror-path-count/README.md) | Medium | 2026-11-05 |
 | 0583 | [Delete Operation for Two Strings](0583-delete-operation-for-two-strings/README.md) | Medium | 2026-11-04 |
 | 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium | 2026-11-04 |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium | 2026-11-04 |
@@ -581,4 +588,3 @@
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | 2026-10-30 |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](2279-maximum-bags-with-full-capacity-of-rocks/README.md) | Medium | 2026-10-29 |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium | 2026-10-29 |
-| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | 2026-10-28 |

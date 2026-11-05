@@ -30,7 +30,8 @@
     "leetcode/0746-min-cost-climbing-stairs",
     "leetcode/0063-unique-paths-ii",
     "leetcode/0064-minimum-path-sum",
-    "leetcode/1035-uncrossed-lines"
+    "leetcode/1035-uncrossed-lines",
+    "leetcode/3665-twisted-mirror-path-count"
   ],
   "Simulation": [
     "leetcode/1929-concatenation-of-array"
@@ -124,7 +125,8 @@
     "leetcode/0064-minimum-path-sum",
     "leetcode/1143-longest-common-subsequence",
     "leetcode/1035-uncrossed-lines",
-    "leetcode/0583-delete-operation-for-two-strings"
+    "leetcode/0583-delete-operation-for-two-strings",
+    "leetcode/3665-twisted-mirror-path-count"
   ],
   "Breadth-First Search": [
     "leetcode/0322-coin-change"
@@ -174,7 +176,8 @@
   "Matrix": [
     "leetcode/0036-valid-sudoku",
     "leetcode/0063-unique-paths-ii",
-    "leetcode/0064-minimum-path-sum"
+    "leetcode/0064-minimum-path-sum",
+    "leetcode/3665-twisted-mirror-path-count"
   ],
   "Boyer–Moore Majority Vote Algorithm": [
     "leetcode/0229-majority-element-ii"
