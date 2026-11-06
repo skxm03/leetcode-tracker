@@ -603,5 +603,18 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-05T17:51:12.888Z"
+  },
+  {
+    "folderId": "leetcode/0115-distinct-subsequences",
+    "frontendId": "115",
+    "title": "Distinct Subsequences",
+    "slug": "distinct-subsequences",
+    "difficulty": "Hard",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-06T17:54:33.533Z"
   }
 ]

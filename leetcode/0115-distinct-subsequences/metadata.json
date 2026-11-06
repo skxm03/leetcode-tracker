@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "115",
+  "frontendId": "115",
+  "title": "Distinct Subsequences",
+  "slug": "distinct-subsequences",
+  "difficulty": "Hard",
+  "topics": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "668 ms",
+  "memory": "29.4 MB",
+  "submissionId": "2190875323",
+  "acceptedAt": "2026-11-06T17:54:33.533Z",
+  "updatedAt": "2026-11-06T17:54:34.907Z",
+  "url": "https://leetcode.com/problems/distinct-subsequences/",
+  "version": 1
+}

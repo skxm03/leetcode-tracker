@@ -54,7 +54,8 @@
     "leetcode/0451-sort-characters-by-frequency",
     "leetcode/1529-minimum-suffix-flips",
     "leetcode/1143-longest-common-subsequence",
-    "leetcode/0583-delete-operation-for-two-strings"
+    "leetcode/0583-delete-operation-for-two-strings",
+    "leetcode/0115-distinct-subsequences"
   ],
   "Sorting": [
     "leetcode/0242-valid-anagram",
@@ -126,7 +127,8 @@
     "leetcode/1143-longest-common-subsequence",
     "leetcode/1035-uncrossed-lines",
     "leetcode/0583-delete-operation-for-two-strings",
-    "leetcode/3665-twisted-mirror-path-count"
+    "leetcode/3665-twisted-mirror-path-count",
+    "leetcode/0115-distinct-subsequences"
   ],
   "Breadth-First Search": [
     "leetcode/0322-coin-change"

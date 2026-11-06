@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**42** problems solved — 13 Easy · 28 Medium · 1 Hard
+**43** problems solved — 13 Easy · 28 Medium · 2 Hard
 
 ## Contents
 
@@ -26,6 +26,7 @@
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy | Math, Dynamic Programming, Memoization |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy | Array, Two Pointers, Sorting |
+| 0115 | [Distinct Subsequences](0115-distinct-subsequences/README.md) | Hard | String, Dynamic Programming |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium | Array, Dynamic Programming, Greedy |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy | Two Pointers, String |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium | Array, Greedy |
@@ -110,10 +111,11 @@
 | 2279 | [Maximum Bags With Full Capacity of Rocks](2279-maximum-bags-with-full-capacity-of-rocks/README.md) | Array, Greedy, Sorting |
 | 3665 | [Twisted Mirror Path Count](3665-twisted-mirror-path-count/README.md) | Array, Dynamic Programming, Matrix |
 
-### Hard (1)
+### Hard (2)
 
 | # | Title | Topics |
 | --- | --- | --- |
+| 0115 | [Distinct Subsequences](0115-distinct-subsequences/README.md) | String, Dynamic Programming |
 | 0135 | [Candy](0135-candy/README.md) | Array, Greedy |
 
 ## By Topic
@@ -246,7 +248,7 @@
 </details>
 
 <details>
-<summary>Dynamic Programming (13)</summary>
+<summary>Dynamic Programming (14)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -254,6 +256,7 @@
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium |
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy |
+| 0115 | [Distinct Subsequences](0115-distinct-subsequences/README.md) | Hard |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
@@ -456,11 +459,12 @@
 </details>
 
 <details>
-<summary>String (9)</summary>
+<summary>String (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
+| 0115 | [Distinct Subsequences](0115-distinct-subsequences/README.md) | Hard |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
@@ -520,7 +524,7 @@
 ## By Language
 
 <details>
-<summary>python (42)</summary>
+<summary>python (43)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -536,6 +540,7 @@
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
+| 0115 | [Distinct Subsequences](0115-distinct-subsequences/README.md) | Hard |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
@@ -573,6 +578,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0115 | [Distinct Subsequences](0115-distinct-subsequences/README.md) | Hard | 2026-11-06 |
 | 3665 | [Twisted Mirror Path Count](3665-twisted-mirror-path-count/README.md) | Medium | 2026-11-05 |
 | 0583 | [Delete Operation for Two Strings](0583-delete-operation-for-two-strings/README.md) | Medium | 2026-11-04 |
 | 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium | 2026-11-04 |
@@ -587,4 +593,3 @@
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium | 2026-10-30 |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | 2026-10-30 |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](2279-maximum-bags-with-full-capacity-of-rocks/README.md) | Medium | 2026-10-29 |
-| 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium | 2026-10-29 |
