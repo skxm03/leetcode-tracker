@@ -55,7 +55,8 @@
     "leetcode/1529-minimum-suffix-flips",
     "leetcode/1143-longest-common-subsequence",
     "leetcode/0583-delete-operation-for-two-strings",
-    "leetcode/0115-distinct-subsequences"
+    "leetcode/0115-distinct-subsequences",
+    "leetcode/0516-longest-palindromic-subsequence"
   ],
   "Sorting": [
     "leetcode/0242-valid-anagram",
@@ -128,7 +129,8 @@
     "leetcode/1035-uncrossed-lines",
     "leetcode/0583-delete-operation-for-two-strings",
     "leetcode/3665-twisted-mirror-path-count",
-    "leetcode/0115-distinct-subsequences"
+    "leetcode/0115-distinct-subsequences",
+    "leetcode/0516-longest-palindromic-subsequence"
   ],
   "Breadth-First Search": [
     "leetcode/0322-coin-change"

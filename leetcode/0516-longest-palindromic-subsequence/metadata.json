@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "516",
+  "frontendId": "516",
+  "title": "Longest Palindromic Subsequence",
+  "slug": "longest-palindromic-subsequence",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "673 ms",
+  "memory": "74.7 MB",
+  "submissionId": "2190881572",
+  "acceptedAt": "2026-11-06T18:02:59.420Z",
+  "updatedAt": "2026-11-06T18:03:00.344Z",
+  "url": "https://leetcode.com/problems/longest-palindromic-subsequence/",
+  "version": 1
+}

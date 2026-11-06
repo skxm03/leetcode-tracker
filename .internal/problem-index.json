@@ -616,5 +616,18 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-06T17:54:33.533Z"
+  },
+  {
+    "folderId": "leetcode/0516-longest-palindromic-subsequence",
+    "frontendId": "516",
+    "title": "Longest Palindromic Subsequence",
+    "slug": "longest-palindromic-subsequence",
+    "difficulty": "Medium",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-06T18:02:59.420Z"
   }
 ]

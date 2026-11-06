@@ -42,6 +42,7 @@
     "leetcode/1035-uncrossed-lines",
     "leetcode/0583-delete-operation-for-two-strings",
     "leetcode/3665-twisted-mirror-path-count",
-    "leetcode/0115-distinct-subsequences"
+    "leetcode/0115-distinct-subsequences",
+    "leetcode/0516-longest-palindromic-subsequence"
   ]
 }

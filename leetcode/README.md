@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**43** problems solved — 13 Easy · 28 Medium · 2 Hard
+**44** problems solved — 13 Easy · 29 Medium · 2 Hard
 
 ## Contents
 
@@ -39,6 +39,7 @@
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium | Array, Dynamic Programming, Greedy, Sorting |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
+| 0516 | [Longest Palindromic Subsequence](0516-longest-palindromic-subsequence/README.md) | Medium | String, Dynamic Programming |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium | Array, Dynamic Programming, Knapsack Problem, Complete Knapsack |
 | 0583 | [Delete Operation for Two Strings](0583-delete-operation-for-two-strings/README.md) | Medium | String, Dynamic Programming, Longest Common Subsequence |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy | Two Pointers, String, Greedy |
@@ -78,7 +79,7 @@
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
-### Medium (28)
+### Medium (29)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -96,6 +97,7 @@
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Array, Dynamic Programming, Greedy, Sorting |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
+| 0516 | [Longest Palindromic Subsequence](0516-longest-palindromic-subsequence/README.md) | String, Dynamic Programming |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Array, Dynamic Programming, Knapsack Problem, Complete Knapsack |
 | 0583 | [Delete Operation for Two Strings](0583-delete-operation-for-two-strings/README.md) | String, Dynamic Programming, Longest Common Subsequence |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Array, Two Pointers, Greedy, Sorting, Timsort |
@@ -248,7 +250,7 @@
 </details>
 
 <details>
-<summary>Dynamic Programming (14)</summary>
+<summary>Dynamic Programming (15)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -260,6 +262,7 @@
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
+| 0516 | [Longest Palindromic Subsequence](0516-longest-palindromic-subsequence/README.md) | Medium |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
 | 0583 | [Delete Operation for Two Strings](0583-delete-operation-for-two-strings/README.md) | Medium |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
@@ -459,7 +462,7 @@
 </details>
 
 <details>
-<summary>String (10)</summary>
+<summary>String (11)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -469,6 +472,7 @@
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
+| 0516 | [Longest Palindromic Subsequence](0516-longest-palindromic-subsequence/README.md) | Medium |
 | 0583 | [Delete Operation for Two Strings](0583-delete-operation-for-two-strings/README.md) | Medium |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
@@ -524,7 +528,7 @@
 ## By Language
 
 <details>
-<summary>python (43)</summary>
+<summary>python (44)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -553,6 +557,7 @@
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
+| 0516 | [Longest Palindromic Subsequence](0516-longest-palindromic-subsequence/README.md) | Medium |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
 | 0583 | [Delete Operation for Two Strings](0583-delete-operation-for-two-strings/README.md) | Medium |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
@@ -578,6 +583,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0516 | [Longest Palindromic Subsequence](0516-longest-palindromic-subsequence/README.md) | Medium | 2026-11-06 |
 | 0115 | [Distinct Subsequences](0115-distinct-subsequences/README.md) | Hard | 2026-11-06 |
 | 3665 | [Twisted Mirror Path Count](3665-twisted-mirror-path-count/README.md) | Medium | 2026-11-05 |
 | 0583 | [Delete Operation for Two Strings](0583-delete-operation-for-two-strings/README.md) | Medium | 2026-11-04 |
@@ -592,4 +598,3 @@
 | 0135 | [Candy](0135-candy/README.md) | Hard | 2026-10-31 |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium | 2026-10-30 |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | 2026-10-30 |
-| 2279 | [Maximum Bags With Full Capacity of Rocks](2279-maximum-bags-with-full-capacity-of-rocks/README.md) | Medium | 2026-10-29 |
