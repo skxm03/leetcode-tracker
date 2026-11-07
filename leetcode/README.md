@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**44** problems solved — 13 Easy · 29 Medium · 2 Hard
+**45** problems solved — 13 Easy · 30 Medium · 2 Hard
 
 ## Contents
 
@@ -16,6 +16,7 @@
 | --- | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy | Array, Hash Table |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | Array, String, Trie |
+| 0015 | [3Sum](0015-3sum/README.md) | Medium | Array, Two Pointers, Sorting |
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy | Array, Two Pointers |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | Array, Two Pointers |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | Array, Hash Table, Matrix |
@@ -79,10 +80,11 @@
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
-### Medium (29)
+### Medium (30)
 
 | # | Title | Topics |
 | --- | --- | --- |
+| 0015 | [3Sum](0015-3sum/README.md) | Array, Two Pointers, Sorting |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Array, Hash Table, Matrix |
 | 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Array, Sorting, Quicksort |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Math, Dynamic Programming, Combinatorics |
@@ -123,12 +125,13 @@
 ## By Topic
 
 <details>
-<summary>Array (32)</summary>
+<summary>Array (33)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
+| 0015 | [3Sum](0015-3sum/README.md) | Medium |
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
@@ -439,10 +442,11 @@
 </details>
 
 <details>
-<summary>Sorting (15)</summary>
+<summary>Sorting (16)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0015 | [3Sum](0015-3sum/README.md) | Medium |
 | 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
@@ -508,10 +512,11 @@
 </details>
 
 <details>
-<summary>Two Pointers (10)</summary>
+<summary>Two Pointers (11)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0015 | [3Sum](0015-3sum/README.md) | Medium |
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
@@ -528,12 +533,13 @@
 ## By Language
 
 <details>
-<summary>python (44)</summary>
+<summary>python (45)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
+| 0015 | [3Sum](0015-3sum/README.md) | Medium |
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
@@ -583,6 +589,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0015 | [3Sum](0015-3sum/README.md) | Medium | 2026-11-07 |
 | 0516 | [Longest Palindromic Subsequence](0516-longest-palindromic-subsequence/README.md) | Medium | 2026-11-06 |
 | 0115 | [Distinct Subsequences](0115-distinct-subsequences/README.md) | Hard | 2026-11-06 |
 | 3665 | [Twisted Mirror Path Count](3665-twisted-mirror-path-count/README.md) | Medium | 2026-11-05 |
@@ -597,4 +604,3 @@
 | 1529 | [Minimum Suffix Flips](1529-minimum-suffix-flips/README.md) | Medium | 2026-10-31 |
 | 0135 | [Candy](0135-candy/README.md) | Hard | 2026-10-31 |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium | 2026-10-30 |
-| 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | 2026-10-30 |
