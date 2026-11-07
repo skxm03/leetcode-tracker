@@ -44,6 +44,7 @@
     "leetcode/3665-twisted-mirror-path-count",
     "leetcode/0115-distinct-subsequences",
     "leetcode/0516-longest-palindromic-subsequence",
-    "leetcode/0015-3sum"
+    "leetcode/0015-3sum",
+    "leetcode/0018-4sum"
   ]
 }

@@ -643,5 +643,19 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-07T18:15:57.267Z"
+  },
+  {
+    "folderId": "leetcode/0018-4sum",
+    "frontendId": "18",
+    "title": "4Sum",
+    "slug": "4sum",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-07T18:17:01.092Z"
   }
 ]

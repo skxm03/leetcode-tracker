@@ -32,7 +32,8 @@
     "leetcode/0064-minimum-path-sum",
     "leetcode/1035-uncrossed-lines",
     "leetcode/3665-twisted-mirror-path-count",
-    "leetcode/0015-3sum"
+    "leetcode/0015-3sum",
+    "leetcode/0018-4sum"
   ],
   "Simulation": [
     "leetcode/1929-concatenation-of-array"
@@ -75,7 +76,8 @@
     "leetcode/0451-sort-characters-by-frequency",
     "leetcode/2279-maximum-bags-with-full-capacity-of-rocks",
     "leetcode/0881-boats-to-save-people",
-    "leetcode/0015-3sum"
+    "leetcode/0015-3sum",
+    "leetcode/0018-4sum"
   ],
   "Trie": [
     "leetcode/0014-longest-common-prefix"
@@ -91,7 +93,8 @@
     "leetcode/0026-remove-duplicates-from-sorted-array",
     "leetcode/1877-minimize-maximum-pair-sum-in-array",
     "leetcode/0881-boats-to-save-people",
-    "leetcode/0015-3sum"
+    "leetcode/0015-3sum",
+    "leetcode/0018-4sum"
   ],
   "Divide and Conquer": [
     "leetcode/0912-sort-an-array",
