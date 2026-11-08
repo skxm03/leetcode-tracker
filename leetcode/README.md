@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**46** problems solved — 13 Easy · 31 Medium · 2 Hard
+**47** problems solved — 13 Easy · 32 Medium · 2 Hard
 
 ## Contents
 
@@ -15,6 +15,7 @@
 | # | Title | Difficulty | Topics |
 | --- | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy | Array, Hash Table |
+| 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium | Array, Two Pointers, Greedy |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | Array, String, Trie |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium | Array, Two Pointers, Sorting |
 | 0018 | [4Sum](0018-4sum/README.md) | Medium | Array, Two Pointers, Sorting |
@@ -81,10 +82,11 @@
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
-### Medium (31)
+### Medium (32)
 
 | # | Title | Topics |
 | --- | --- | --- |
+| 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Array, Two Pointers, Greedy |
 | 0015 | [3Sum](0015-3sum/README.md) | Array, Two Pointers, Sorting |
 | 0018 | [4Sum](0018-4sum/README.md) | Array, Two Pointers, Sorting |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Array, Hash Table, Matrix |
@@ -127,11 +129,12 @@
 ## By Topic
 
 <details>
-<summary>Array (34)</summary>
+<summary>Array (35)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
+| 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium |
 | 0018 | [4Sum](0018-4sum/README.md) | Medium |
@@ -279,10 +282,11 @@
 </details>
 
 <details>
-<summary>Greedy (14)</summary>
+<summary>Greedy (15)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
 | 0135 | [Candy](0135-candy/README.md) | Hard |
@@ -516,10 +520,11 @@
 </details>
 
 <details>
-<summary>Two Pointers (12)</summary>
+<summary>Two Pointers (13)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium |
 | 0018 | [4Sum](0018-4sum/README.md) | Medium |
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy |
@@ -538,11 +543,12 @@
 ## By Language
 
 <details>
-<summary>python (46)</summary>
+<summary>python (47)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
+| 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium |
 | 0018 | [4Sum](0018-4sum/README.md) | Medium |
@@ -595,6 +601,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium | 2026-11-08 |
 | 0018 | [4Sum](0018-4sum/README.md) | Medium | 2026-11-07 |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium | 2026-11-07 |
 | 0516 | [Longest Palindromic Subsequence](0516-longest-palindromic-subsequence/README.md) | Medium | 2026-11-06 |
@@ -609,4 +616,3 @@
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy | 2026-11-02 |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | 2026-11-02 |
 | 1529 | [Minimum Suffix Flips](1529-minimum-suffix-flips/README.md) | Medium | 2026-10-31 |
-| 0135 | [Candy](0135-candy/README.md) | Hard | 2026-10-31 |

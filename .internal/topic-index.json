@@ -33,7 +33,8 @@
     "leetcode/1035-uncrossed-lines",
     "leetcode/3665-twisted-mirror-path-count",
     "leetcode/0015-3sum",
-    "leetcode/0018-4sum"
+    "leetcode/0018-4sum",
+    "leetcode/0011-container-with-most-water"
   ],
   "Simulation": [
     "leetcode/1929-concatenation-of-array"
@@ -94,7 +95,8 @@
     "leetcode/1877-minimize-maximum-pair-sum-in-array",
     "leetcode/0881-boats-to-save-people",
     "leetcode/0015-3sum",
-    "leetcode/0018-4sum"
+    "leetcode/0018-4sum",
+    "leetcode/0011-container-with-most-water"
   ],
   "Divide and Conquer": [
     "leetcode/0912-sort-an-array",
@@ -163,7 +165,8 @@
     "leetcode/0860-lemonade-change",
     "leetcode/0881-boats-to-save-people",
     "leetcode/0135-candy",
-    "leetcode/1529-minimum-suffix-flips"
+    "leetcode/1529-minimum-suffix-flips",
+    "leetcode/0011-container-with-most-water"
   ],
   "Quicksort": [
     "leetcode/0075-sort-colors",
