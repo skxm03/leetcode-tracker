@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "189",
+  "frontendId": "189",
+  "title": "Rotate Array",
+  "slug": "rotate-array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Two Pointers"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "19 ms",
+  "memory": "28.1 MB",
+  "submissionId": "2192054700",
+  "acceptedAt": "2026-11-08T17:46:25.155Z",
+  "updatedAt": "2026-11-08T17:46:26.048Z",
+  "url": "https://leetcode.com/problems/rotate-array/",
+  "version": 1
+}

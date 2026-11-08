@@ -46,6 +46,7 @@
     "leetcode/0516-longest-palindromic-subsequence",
     "leetcode/0015-3sum",
     "leetcode/0018-4sum",
-    "leetcode/0011-container-with-most-water"
+    "leetcode/0011-container-with-most-water",
+    "leetcode/0189-rotate-array"
   ]
 }
