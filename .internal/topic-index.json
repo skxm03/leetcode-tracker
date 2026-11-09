@@ -36,7 +36,8 @@
     "leetcode/0018-4sum",
     "leetcode/0011-container-with-most-water",
     "leetcode/0189-rotate-array",
-    "leetcode/0121-best-time-to-buy-and-sell-stock"
+    "leetcode/0121-best-time-to-buy-and-sell-stock",
+    "leetcode/0219-contains-duplicate-ii"
   ],
   "Simulation": [
     "leetcode/1929-concatenation-of-array"
@@ -48,7 +49,8 @@
     "leetcode/0229-majority-element-ii",
     "leetcode/0001-two-sum",
     "leetcode/1338-reduce-array-size-to-the-half",
-    "leetcode/0451-sort-characters-by-frequency"
+    "leetcode/0451-sort-characters-by-frequency",
+    "leetcode/0219-contains-duplicate-ii"
   ],
   "String": [
     "leetcode/0242-valid-anagram",
@@ -223,5 +225,8 @@
     "leetcode/1143-longest-common-subsequence",
     "leetcode/1035-uncrossed-lines",
     "leetcode/0583-delete-operation-for-two-strings"
+  ],
+  "Sliding Window": [
+    "leetcode/0219-contains-duplicate-ii"
   ]
 }

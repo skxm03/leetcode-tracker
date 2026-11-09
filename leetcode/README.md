@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**49** problems solved — 14 Easy · 33 Medium · 2 Hard
+**50** problems solved — 15 Easy · 33 Medium · 2 Hard
 
 ## Contents
 
@@ -36,6 +36,7 @@
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium | Array, Greedy |
 | 0135 | [Candy](0135-candy/README.md) | Hard | Array, Greedy |
 | 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium | Array, Math, Two Pointers |
+| 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/README.md) | Easy | Array, Hash Table, Sliding Window |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium | Array, Hash Table, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | Array, Prefix Sum |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | Hash Table, String, Sorting |
@@ -66,7 +67,7 @@
 
 ## By Difficulty
 
-### Easy (14)
+### Easy (15)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -78,6 +79,7 @@
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Array, Two Pointers, Sorting |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Array, Dynamic Programming |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Two Pointers, String |
+| 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/README.md) | Array, Hash Table, Sliding Window |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Hash Table, String, Sorting |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Two Pointers, String |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Two Pointers, String, Greedy |
@@ -133,7 +135,7 @@
 ## By Topic
 
 <details>
-<summary>Array (37)</summary>
+<summary>Array (38)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -155,6 +157,7 @@
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
 | 0135 | [Candy](0135-candy/README.md) | Hard |
 | 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium |
+| 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/README.md) | Easy |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
@@ -312,12 +315,13 @@
 </details>
 
 <details>
-<summary>Hash Table (7)</summary>
+<summary>Hash Table (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
+| 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/README.md) | Easy |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
@@ -457,6 +461,15 @@
 </details>
 
 <details>
+<summary>Sliding Window (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/README.md) | Easy |
+
+</details>
+
+<details>
 <summary>Sorting (17)</summary>
 
 | # | Title | Difficulty |
@@ -552,7 +565,7 @@
 ## By Language
 
 <details>
-<summary>python (49)</summary>
+<summary>python (50)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -578,6 +591,7 @@
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
 | 0135 | [Candy](0135-candy/README.md) | Hard |
 | 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium |
+| 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/README.md) | Easy |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
@@ -612,6 +626,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/README.md) | Easy | 2026-11-09 |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy | 2026-11-09 |
 | 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium | 2026-11-08 |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium | 2026-11-08 |
@@ -626,4 +641,3 @@
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium | 2026-11-03 |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | 2026-11-03 |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy | 2026-11-02 |
-| 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy | 2026-11-02 |

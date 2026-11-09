@@ -698,5 +698,19 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-09T17:18:45.153Z"
+  },
+  {
+    "folderId": "leetcode/0219-contains-duplicate-ii",
+    "frontendId": "219",
+    "title": "Contains Duplicate II",
+    "slug": "contains-duplicate-ii",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-09T17:24:35.264Z"
   }
 ]
