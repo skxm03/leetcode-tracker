@@ -35,7 +35,8 @@
     "leetcode/0015-3sum",
     "leetcode/0018-4sum",
     "leetcode/0011-container-with-most-water",
-    "leetcode/0189-rotate-array"
+    "leetcode/0189-rotate-array",
+    "leetcode/0121-best-time-to-buy-and-sell-stock"
   ],
   "Simulation": [
     "leetcode/1929-concatenation-of-array"
@@ -140,7 +141,8 @@
     "leetcode/0583-delete-operation-for-two-strings",
     "leetcode/3665-twisted-mirror-path-count",
     "leetcode/0115-distinct-subsequences",
-    "leetcode/0516-longest-palindromic-subsequence"
+    "leetcode/0516-longest-palindromic-subsequence",
+    "leetcode/0121-best-time-to-buy-and-sell-stock"
   ],
   "Breadth-First Search": [
     "leetcode/0322-coin-change"

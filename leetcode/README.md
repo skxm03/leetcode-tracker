@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**48** problems solved — 13 Easy · 33 Medium · 2 Hard
+**49** problems solved — 14 Easy · 33 Medium · 2 Hard
 
 ## Contents
 
@@ -30,6 +30,7 @@
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy | Array, Two Pointers, Sorting |
 | 0115 | [Distinct Subsequences](0115-distinct-subsequences/README.md) | Hard | String, Dynamic Programming |
+| 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy | Array, Dynamic Programming |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium | Array, Dynamic Programming, Greedy |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy | Two Pointers, String |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium | Array, Greedy |
@@ -65,7 +66,7 @@
 
 ## By Difficulty
 
-### Easy (13)
+### Easy (14)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -75,6 +76,7 @@
 | 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Math, Dynamic Programming, Memoization |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Array, Two Pointers, Sorting |
+| 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Array, Dynamic Programming |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Two Pointers, String |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Hash Table, String, Sorting |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Two Pointers, String |
@@ -131,7 +133,7 @@
 ## By Topic
 
 <details>
-<summary>Array (36)</summary>
+<summary>Array (37)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -148,6 +150,7 @@
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
+| 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
 | 0135 | [Candy](0135-candy/README.md) | Hard |
@@ -262,7 +265,7 @@
 </details>
 
 <details>
-<summary>Dynamic Programming (15)</summary>
+<summary>Dynamic Programming (16)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -271,6 +274,7 @@
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium |
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy |
 | 0115 | [Distinct Subsequences](0115-distinct-subsequences/README.md) | Hard |
+| 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
@@ -548,7 +552,7 @@
 ## By Language
 
 <details>
-<summary>python (48)</summary>
+<summary>python (49)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -568,6 +572,7 @@
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0115 | [Distinct Subsequences](0115-distinct-subsequences/README.md) | Hard |
+| 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
@@ -607,6 +612,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy | 2026-11-09 |
 | 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium | 2026-11-08 |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium | 2026-11-08 |
 | 0018 | [4Sum](0018-4sum/README.md) | Medium | 2026-11-07 |
@@ -621,4 +627,3 @@
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | 2026-11-03 |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy | 2026-11-02 |
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy | 2026-11-02 |
-| 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | 2026-11-02 |
