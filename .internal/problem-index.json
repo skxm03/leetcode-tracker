@@ -725,5 +725,18 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-10T18:39:35.536Z"
+  },
+  {
+    "folderId": "leetcode/0035-search-insert-position",
+    "frontendId": "35",
+    "title": "Search Insert Position",
+    "slug": "search-insert-position",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-10T18:42:17.781Z"
   }
 ]

@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "35",
+  "frontendId": "35",
+  "title": "Search Insert Position",
+  "slug": "search-insert-position",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "0 ms",
+  "memory": "12.5 MB",
+  "submissionId": "2193407731",
+  "acceptedAt": "2026-11-10T18:42:17.781Z",
+  "updatedAt": "2026-11-10T18:42:18.883Z",
+  "url": "https://leetcode.com/problems/search-insert-position/",
+  "version": 1
+}

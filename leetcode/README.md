@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**51** problems solved — 16 Easy · 33 Medium · 2 Hard
+**52** problems solved — 17 Easy · 33 Medium · 2 Hard
 
 ## Contents
 
@@ -21,6 +21,7 @@
 | 0018 | [4Sum](0018-4sum/README.md) | Medium | Array, Two Pointers, Sorting |
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy | Array, Two Pointers |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | Array, Two Pointers |
+| 0035 | [Search Insert Position](0035-search-insert-position/README.md) | Easy | Array, Binary Search |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | Array, Hash Table, Matrix |
 | 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium | Array, Sorting, Quicksort |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | Math, Dynamic Programming, Combinatorics |
@@ -68,7 +69,7 @@
 
 ## By Difficulty
 
-### Easy (16)
+### Easy (17)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -76,6 +77,7 @@
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Array, String, Trie |
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Array, Two Pointers |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
+| 0035 | [Search Insert Position](0035-search-insert-position/README.md) | Array, Binary Search |
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Math, Dynamic Programming, Memoization |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Array, Two Pointers, Sorting |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Array, Dynamic Programming |
@@ -137,7 +139,7 @@
 ## By Topic
 
 <details>
-<summary>Array (39)</summary>
+<summary>Array (40)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -148,6 +150,7 @@
 | 0018 | [4Sum](0018-4sum/README.md) | Medium |
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
+| 0035 | [Search Insert Position](0035-search-insert-position/README.md) | Easy |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
@@ -184,10 +187,11 @@
 </details>
 
 <details>
-<summary>Binary Search (1)</summary>
+<summary>Binary Search (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0035 | [Search Insert Position](0035-search-insert-position/README.md) | Easy |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy |
 
 </details>
@@ -577,7 +581,7 @@
 ## By Language
 
 <details>
-<summary>python (51)</summary>
+<summary>python (52)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -588,6 +592,7 @@
 | 0018 | [4Sum](0018-4sum/README.md) | Medium |
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
+| 0035 | [Search Insert Position](0035-search-insert-position/README.md) | Easy |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
@@ -639,6 +644,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0035 | [Search Insert Position](0035-search-insert-position/README.md) | Easy | 2026-11-10 |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy | 2026-11-10 |
 | 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/README.md) | Easy | 2026-11-09 |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy | 2026-11-09 |
@@ -653,4 +659,3 @@
 | 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium | 2026-11-04 |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium | 2026-11-04 |
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium | 2026-11-03 |
-| 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | 2026-11-03 |
