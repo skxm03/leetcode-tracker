@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**50** problems solved — 15 Easy · 33 Medium · 2 Hard
+**51** problems solved — 16 Easy · 33 Medium · 2 Hard
 
 ## Contents
 
@@ -49,6 +49,7 @@
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium | Array, Dynamic Programming, Knapsack Problem, Complete Knapsack |
 | 0583 | [Delete Operation for Two Strings](0583-delete-operation-for-two-strings/README.md) | Medium | String, Dynamic Programming, Longest Common Subsequence |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy | Two Pointers, String, Greedy |
+| 0704 | [Binary Search](0704-binary-search/README.md) | Easy | Array, Binary Search |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy | Array, Dynamic Programming |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | Array, Greedy |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium | Array, Two Pointers, Greedy, Sorting, Timsort |
@@ -67,7 +68,7 @@
 
 ## By Difficulty
 
-### Easy (15)
+### Easy (16)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -83,6 +84,7 @@
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Hash Table, String, Sorting |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Two Pointers, String |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Two Pointers, String, Greedy |
+| 0704 | [Binary Search](0704-binary-search/README.md) | Array, Binary Search |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Array, Dynamic Programming |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
@@ -135,7 +137,7 @@
 ## By Topic
 
 <details>
-<summary>Array (38)</summary>
+<summary>Array (39)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -164,6 +166,7 @@
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
+| 0704 | [Binary Search](0704-binary-search/README.md) | Easy |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium |
@@ -177,6 +180,15 @@
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum/README.md) | Medium |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](2279-maximum-bags-with-full-capacity-of-rocks/README.md) | Medium |
 | 3665 | [Twisted Mirror Path Count](3665-twisted-mirror-path-count/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Binary Search (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0704 | [Binary Search](0704-binary-search/README.md) | Easy |
 
 </details>
 
@@ -565,7 +577,7 @@
 ## By Language
 
 <details>
-<summary>python (50)</summary>
+<summary>python (51)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -604,6 +616,7 @@
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
 | 0583 | [Delete Operation for Two Strings](0583-delete-operation-for-two-strings/README.md) | Medium |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
+| 0704 | [Binary Search](0704-binary-search/README.md) | Easy |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium |
@@ -626,6 +639,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0704 | [Binary Search](0704-binary-search/README.md) | Easy | 2026-11-10 |
 | 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/README.md) | Easy | 2026-11-09 |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy | 2026-11-09 |
 | 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium | 2026-11-08 |
@@ -640,4 +654,3 @@
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium | 2026-11-04 |
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium | 2026-11-03 |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | 2026-11-03 |
-| 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy | 2026-11-02 |

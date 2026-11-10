@@ -49,6 +49,7 @@
     "leetcode/0011-container-with-most-water",
     "leetcode/0189-rotate-array",
     "leetcode/0121-best-time-to-buy-and-sell-stock",
-    "leetcode/0219-contains-duplicate-ii"
+    "leetcode/0219-contains-duplicate-ii",
+    "leetcode/0704-binary-search"
   ]
 }

@@ -37,7 +37,8 @@
     "leetcode/0011-container-with-most-water",
     "leetcode/0189-rotate-array",
     "leetcode/0121-best-time-to-buy-and-sell-stock",
-    "leetcode/0219-contains-duplicate-ii"
+    "leetcode/0219-contains-duplicate-ii",
+    "leetcode/0704-binary-search"
   ],
   "Simulation": [
     "leetcode/1929-concatenation-of-array"
@@ -228,5 +229,8 @@
   ],
   "Sliding Window": [
     "leetcode/0219-contains-duplicate-ii"
+  ],
+  "Binary Search": [
+    "leetcode/0704-binary-search"
   ]
 }

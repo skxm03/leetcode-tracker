@@ -712,5 +712,18 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-09T17:24:35.264Z"
+  },
+  {
+    "folderId": "leetcode/0704-binary-search",
+    "frontendId": "704",
+    "title": "Binary Search",
+    "slug": "binary-search",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-10T18:39:35.536Z"
   }
 ]
