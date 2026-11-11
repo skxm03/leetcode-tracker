@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**52** problems solved — 17 Easy · 33 Medium · 2 Hard
+**53** problems solved — 18 Easy · 33 Medium · 2 Hard
 
 ## Contents
 
@@ -44,6 +44,7 @@
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | Two Pointers, String |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
+| 0374 | [Guess Number Higher or Lower](0374-guess-number-higher-or-lower/README.md) | Easy | Binary Search, Interactive |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium | Array, Dynamic Programming, Greedy, Sorting |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0516 | [Longest Palindromic Subsequence](0516-longest-palindromic-subsequence/README.md) | Medium | String, Dynamic Programming |
@@ -69,7 +70,7 @@
 
 ## By Difficulty
 
-### Easy (17)
+### Easy (18)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -85,6 +86,7 @@
 | 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/README.md) | Array, Hash Table, Sliding Window |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Hash Table, String, Sorting |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Two Pointers, String |
+| 0374 | [Guess Number Higher or Lower](0374-guess-number-higher-or-lower/README.md) | Binary Search, Interactive |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Two Pointers, String, Greedy |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Array, Binary Search |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Array, Dynamic Programming |
@@ -187,11 +189,12 @@
 </details>
 
 <details>
-<summary>Binary Search (2)</summary>
+<summary>Binary Search (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0035 | [Search Insert Position](0035-search-insert-position/README.md) | Easy |
+| 0374 | [Guess Number Higher or Lower](0374-guess-number-higher-or-lower/README.md) | Easy |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy |
 
 </details>
@@ -365,6 +368,15 @@
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Interactive (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0374 | [Guess Number Higher or Lower](0374-guess-number-higher-or-lower/README.md) | Easy |
 
 </details>
 
@@ -581,7 +593,7 @@
 ## By Language
 
 <details>
-<summary>python (52)</summary>
+<summary>python (53)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -615,6 +627,7 @@
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
+| 0374 | [Guess Number Higher or Lower](0374-guess-number-higher-or-lower/README.md) | Easy |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0516 | [Longest Palindromic Subsequence](0516-longest-palindromic-subsequence/README.md) | Medium |
@@ -644,6 +657,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0374 | [Guess Number Higher or Lower](0374-guess-number-higher-or-lower/README.md) | Easy | 2026-11-11 |
 | 0035 | [Search Insert Position](0035-search-insert-position/README.md) | Easy | 2026-11-10 |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy | 2026-11-10 |
 | 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/README.md) | Easy | 2026-11-09 |
@@ -658,4 +672,3 @@
 | 0583 | [Delete Operation for Two Strings](0583-delete-operation-for-two-strings/README.md) | Medium | 2026-11-04 |
 | 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium | 2026-11-04 |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium | 2026-11-04 |
-| 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium | 2026-11-03 |

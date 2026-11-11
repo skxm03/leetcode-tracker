@@ -233,6 +233,10 @@
   ],
   "Binary Search": [
     "leetcode/0704-binary-search",
-    "leetcode/0035-search-insert-position"
+    "leetcode/0035-search-insert-position",
+    "leetcode/0374-guess-number-higher-or-lower"
+  ],
+  "Interactive": [
+    "leetcode/0374-guess-number-higher-or-lower"
   ]
 }
