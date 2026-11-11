@@ -751,5 +751,19 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-11T19:38:30.857Z"
+  },
+  {
+    "folderId": "leetcode/0069-sqrtx",
+    "frontendId": "69",
+    "title": "Sqrt(x)",
+    "slug": "sqrtx",
+    "difficulty": "Easy",
+    "topics": [
+      "Math",
+      "Binary Search",
+      "Newton's Method"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-11T19:45:05.209Z"
   }
 ]

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**53** problems solved — 18 Easy · 33 Medium · 2 Hard
+**54** problems solved — 19 Easy · 33 Medium · 2 Hard
 
 ## Contents
 
@@ -27,6 +27,7 @@
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | Math, Dynamic Programming, Combinatorics |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | Array, Dynamic Programming, Matrix |
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium | Array, Dynamic Programming, Matrix |
+| 0069 | [Sqrt(x)](0069-sqrtx/README.md) | Easy | Math, Binary Search, Newton's Method |
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy | Math, Dynamic Programming, Memoization |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy | Array, Two Pointers, Sorting |
@@ -70,7 +71,7 @@
 
 ## By Difficulty
 
-### Easy (18)
+### Easy (19)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -79,6 +80,7 @@
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Array, Two Pointers |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
 | 0035 | [Search Insert Position](0035-search-insert-position/README.md) | Array, Binary Search |
+| 0069 | [Sqrt(x)](0069-sqrtx/README.md) | Math, Binary Search, Newton's Method |
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Math, Dynamic Programming, Memoization |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Array, Two Pointers, Sorting |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Array, Dynamic Programming |
@@ -189,11 +191,12 @@
 </details>
 
 <details>
-<summary>Binary Search (3)</summary>
+<summary>Binary Search (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0035 | [Search Insert Position](0035-search-insert-position/README.md) | Easy |
+| 0069 | [Sqrt(x)](0069-sqrtx/README.md) | Easy |
 | 0374 | [Guess Number Higher or Lower](0374-guess-number-higher-or-lower/README.md) | Easy |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy |
 
@@ -402,11 +405,12 @@
 </details>
 
 <details>
-<summary>Math (3)</summary>
+<summary>Math (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
+| 0069 | [Sqrt(x)](0069-sqrtx/README.md) | Easy |
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy |
 | 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium |
 
@@ -439,6 +443,15 @@
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Newton's Method (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0069 | [Sqrt(x)](0069-sqrtx/README.md) | Easy |
 
 </details>
 
@@ -593,7 +606,7 @@
 ## By Language
 
 <details>
-<summary>python (53)</summary>
+<summary>python (54)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -610,6 +623,7 @@
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium |
+| 0069 | [Sqrt(x)](0069-sqrtx/README.md) | Easy |
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
@@ -657,6 +671,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0069 | [Sqrt(x)](0069-sqrtx/README.md) | Easy | 2026-11-11 |
 | 0374 | [Guess Number Higher or Lower](0374-guess-number-higher-or-lower/README.md) | Easy | 2026-11-11 |
 | 0035 | [Search Insert Position](0035-search-insert-position/README.md) | Easy | 2026-11-10 |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy | 2026-11-10 |
@@ -671,4 +686,3 @@
 | 3665 | [Twisted Mirror Path Count](3665-twisted-mirror-path-count/README.md) | Medium | 2026-11-05 |
 | 0583 | [Delete Operation for Two Strings](0583-delete-operation-for-two-strings/README.md) | Medium | 2026-11-04 |
 | 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium | 2026-11-04 |
-| 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium | 2026-11-04 |

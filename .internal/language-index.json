@@ -52,6 +52,7 @@
     "leetcode/0219-contains-duplicate-ii",
     "leetcode/0704-binary-search",
     "leetcode/0035-search-insert-position",
-    "leetcode/0374-guess-number-higher-or-lower"
+    "leetcode/0374-guess-number-higher-or-lower",
+    "leetcode/0069-sqrtx"
   ]
 }

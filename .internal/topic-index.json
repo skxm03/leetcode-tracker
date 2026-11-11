@@ -215,7 +215,8 @@
   "Math": [
     "leetcode/0062-unique-paths",
     "leetcode/0070-climbing-stairs",
-    "leetcode/0189-rotate-array"
+    "leetcode/0189-rotate-array",
+    "leetcode/0069-sqrtx"
   ],
   "Combinatorics": [
     "leetcode/0062-unique-paths"
@@ -234,9 +235,13 @@
   "Binary Search": [
     "leetcode/0704-binary-search",
     "leetcode/0035-search-insert-position",
-    "leetcode/0374-guess-number-higher-or-lower"
+    "leetcode/0374-guess-number-higher-or-lower",
+    "leetcode/0069-sqrtx"
   ],
   "Interactive": [
     "leetcode/0374-guess-number-higher-or-lower"
+  ],
+  "Newton's Method": [
+    "leetcode/0069-sqrtx"
   ]
 }

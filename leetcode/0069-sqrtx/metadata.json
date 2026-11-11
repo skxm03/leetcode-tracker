@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "69",
+  "frontendId": "69",
+  "title": "Sqrt(x)",
+  "slug": "sqrtx",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Binary Search",
+    "Newton's Method"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "2 ms",
+  "memory": "12.2 MB",
+  "submissionId": "2194149265",
+  "acceptedAt": "2026-11-11T19:45:05.209Z",
+  "updatedAt": "2026-11-11T19:45:06.334Z",
+  "url": "https://leetcode.com/problems/sqrtx/",
+  "version": 1
+}
