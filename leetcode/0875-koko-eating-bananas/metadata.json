@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "907",
+  "frontendId": "875",
+  "title": "Koko Eating Bananas",
+  "slug": "koko-eating-bananas",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "153 ms",
+  "memory": "13.6 MB",
+  "submissionId": "2194807670",
+  "acceptedAt": "2026-11-12T17:39:27.643Z",
+  "updatedAt": "2026-11-12T17:39:28.677Z",
+  "url": "https://leetcode.com/problems/koko-eating-bananas/",
+  "version": 1
+}

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**54** problems solved — 19 Easy · 33 Medium · 2 Hard
+**55** problems solved — 19 Easy · 34 Medium · 2 Hard
 
 ## Contents
 
@@ -55,6 +55,7 @@
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy | Array, Binary Search |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy | Array, Dynamic Programming |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | Array, Greedy |
+| 0875 | [Koko Eating Bananas](0875-koko-eating-bananas/README.md) | Medium | Array, Binary Search |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium | Array, Two Pointers, Greedy, Sorting, Timsort |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
@@ -95,7 +96,7 @@
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
-### Medium (33)
+### Medium (34)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -120,6 +121,7 @@
 | 0516 | [Longest Palindromic Subsequence](0516-longest-palindromic-subsequence/README.md) | String, Dynamic Programming |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Array, Dynamic Programming, Knapsack Problem, Complete Knapsack |
 | 0583 | [Delete Operation for Two Strings](0583-delete-operation-for-two-strings/README.md) | String, Dynamic Programming, Longest Common Subsequence |
+| 0875 | [Koko Eating Bananas](0875-koko-eating-bananas/README.md) | Array, Binary Search |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Array, Two Pointers, Greedy, Sorting, Timsort |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Array, Two Pointers, Greedy, Sorting |
@@ -143,7 +145,7 @@
 ## By Topic
 
 <details>
-<summary>Array (40)</summary>
+<summary>Array (41)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -176,6 +178,7 @@
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
+| 0875 | [Koko Eating Bananas](0875-koko-eating-bananas/README.md) | Medium |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
@@ -191,7 +194,7 @@
 </details>
 
 <details>
-<summary>Binary Search (4)</summary>
+<summary>Binary Search (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -199,6 +202,7 @@
 | 0069 | [Sqrt(x)](0069-sqrtx/README.md) | Easy |
 | 0374 | [Guess Number Higher or Lower](0374-guess-number-higher-or-lower/README.md) | Easy |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy |
+| 0875 | [Koko Eating Bananas](0875-koko-eating-bananas/README.md) | Medium |
 
 </details>
 
@@ -606,7 +610,7 @@
 ## By Language
 
 <details>
-<summary>python (54)</summary>
+<summary>python (55)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -651,6 +655,7 @@
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
+| 0875 | [Koko Eating Bananas](0875-koko-eating-bananas/README.md) | Medium |
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
@@ -671,6 +676,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0875 | [Koko Eating Bananas](0875-koko-eating-bananas/README.md) | Medium | 2026-11-12 |
 | 0069 | [Sqrt(x)](0069-sqrtx/README.md) | Easy | 2026-11-11 |
 | 0374 | [Guess Number Higher or Lower](0374-guess-number-higher-or-lower/README.md) | Easy | 2026-11-11 |
 | 0035 | [Search Insert Position](0035-search-insert-position/README.md) | Easy | 2026-11-10 |
@@ -685,4 +691,3 @@
 | 0115 | [Distinct Subsequences](0115-distinct-subsequences/README.md) | Hard | 2026-11-06 |
 | 3665 | [Twisted Mirror Path Count](3665-twisted-mirror-path-count/README.md) | Medium | 2026-11-05 |
 | 0583 | [Delete Operation for Two Strings](0583-delete-operation-for-two-strings/README.md) | Medium | 2026-11-04 |
-| 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium | 2026-11-04 |
