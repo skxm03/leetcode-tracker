@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**55** problems solved — 19 Easy · 34 Medium · 2 Hard
+**56** problems solved — 19 Easy · 35 Medium · 2 Hard
 
 ## Contents
 
@@ -59,6 +59,7 @@
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium | Array, Two Pointers, Greedy, Sorting, Timsort |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
+| 1011 | [Capacity To Ship Packages Within D Days](1011-capacity-to-ship-packages-within-d-days/README.md) | Medium | Array, Binary Search |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium | Array, Greedy, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm |
 | 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium | Array, Dynamic Programming, Longest Common Subsequence |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium | String, Dynamic Programming, Longest Common Subsequence |
@@ -96,7 +97,7 @@
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
-### Medium (34)
+### Medium (35)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -125,6 +126,7 @@
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Array, Two Pointers, Greedy, Sorting, Timsort |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Array, Two Pointers, Greedy, Sorting |
+| 1011 | [Capacity To Ship Packages Within D Days](1011-capacity-to-ship-packages-within-d-days/README.md) | Array, Binary Search |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Array, Greedy, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm |
 | 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Array, Dynamic Programming, Longest Common Subsequence |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | String, Dynamic Programming, Longest Common Subsequence |
@@ -145,7 +147,7 @@
 ## By Topic
 
 <details>
-<summary>Array (41)</summary>
+<summary>Array (42)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -182,6 +184,7 @@
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
+| 1011 | [Capacity To Ship Packages Within D Days](1011-capacity-to-ship-packages-within-d-days/README.md) | Medium |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 | 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium |
 | 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
@@ -194,7 +197,7 @@
 </details>
 
 <details>
-<summary>Binary Search (5)</summary>
+<summary>Binary Search (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -203,6 +206,7 @@
 | 0374 | [Guess Number Higher or Lower](0374-guess-number-higher-or-lower/README.md) | Easy |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy |
 | 0875 | [Koko Eating Bananas](0875-koko-eating-bananas/README.md) | Medium |
+| 1011 | [Capacity To Ship Packages Within D Days](1011-capacity-to-ship-packages-within-d-days/README.md) | Medium |
 
 </details>
 
@@ -610,7 +614,7 @@
 ## By Language
 
 <details>
-<summary>python (55)</summary>
+<summary>python (56)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -659,6 +663,7 @@
 | 0881 | [Boats to Save People](0881-boats-to-save-people/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
+| 1011 | [Capacity To Ship Packages Within D Days](1011-capacity-to-ship-packages-within-d-days/README.md) | Medium |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 | 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
@@ -676,6 +681,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1011 | [Capacity To Ship Packages Within D Days](1011-capacity-to-ship-packages-within-d-days/README.md) | Medium | 2026-11-12 |
 | 0875 | [Koko Eating Bananas](0875-koko-eating-bananas/README.md) | Medium | 2026-11-12 |
 | 0069 | [Sqrt(x)](0069-sqrtx/README.md) | Easy | 2026-11-11 |
 | 0374 | [Guess Number Higher or Lower](0374-guess-number-higher-or-lower/README.md) | Easy | 2026-11-11 |
@@ -690,4 +696,3 @@
 | 0516 | [Longest Palindromic Subsequence](0516-longest-palindromic-subsequence/README.md) | Medium | 2026-11-06 |
 | 0115 | [Distinct Subsequences](0115-distinct-subsequences/README.md) | Hard | 2026-11-06 |
 | 3665 | [Twisted Mirror Path Count](3665-twisted-mirror-path-count/README.md) | Medium | 2026-11-05 |
-| 0583 | [Delete Operation for Two Strings](0583-delete-operation-for-two-strings/README.md) | Medium | 2026-11-04 |

@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "1056",
+  "frontendId": "1011",
+  "title": "Capacity To Ship Packages Within D Days",
+  "slug": "capacity-to-ship-packages-within-d-days",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "212 ms",
+  "memory": "14.9 MB",
+  "submissionId": "2194808904",
+  "acceptedAt": "2026-11-12T17:41:00.297Z",
+  "updatedAt": "2026-11-12T17:41:01.433Z",
+  "url": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+  "version": 1
+}

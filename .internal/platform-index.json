@@ -54,6 +54,7 @@
     "leetcode/0035-search-insert-position",
     "leetcode/0374-guess-number-higher-or-lower",
     "leetcode/0069-sqrtx",
-    "leetcode/0875-koko-eating-bananas"
+    "leetcode/0875-koko-eating-bananas",
+    "leetcode/1011-capacity-to-ship-packages-within-d-days"
   ]
 }
