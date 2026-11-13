@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**56** problems solved — 19 Easy · 35 Medium · 2 Hard
+**57** problems solved — 19 Easy · 36 Medium · 2 Hard
 
 ## Contents
 
@@ -37,6 +37,7 @@
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy | Two Pointers, String |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium | Array, Greedy |
 | 0135 | [Candy](0135-candy/README.md) | Hard | Array, Greedy |
+| 0153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array/README.md) | Medium | Array, Binary Search |
 | 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium | Array, Math, Two Pointers |
 | 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/README.md) | Easy | Array, Hash Table, Sliding Window |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium | Array, Hash Table, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
@@ -97,7 +98,7 @@
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
-### Medium (35)
+### Medium (36)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -112,6 +113,7 @@
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Array, Dynamic Programming, Greedy |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Array, Greedy |
+| 0153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array/README.md) | Array, Binary Search |
 | 0189 | [Rotate Array](0189-rotate-array/README.md) | Array, Math, Two Pointers |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Array, Hash Table, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Array, Prefix Sum |
@@ -147,7 +149,7 @@
 ## By Topic
 
 <details>
-<summary>Array (42)</summary>
+<summary>Array (43)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -169,6 +171,7 @@
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
 | 0135 | [Candy](0135-candy/README.md) | Hard |
+| 0153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array/README.md) | Medium |
 | 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium |
 | 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/README.md) | Easy |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
@@ -197,12 +200,13 @@
 </details>
 
 <details>
-<summary>Binary Search (6)</summary>
+<summary>Binary Search (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0035 | [Search Insert Position](0035-search-insert-position/README.md) | Easy |
 | 0069 | [Sqrt(x)](0069-sqrtx/README.md) | Easy |
+| 0153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array/README.md) | Medium |
 | 0374 | [Guess Number Higher or Lower](0374-guess-number-higher-or-lower/README.md) | Easy |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy |
 | 0875 | [Koko Eating Bananas](0875-koko-eating-bananas/README.md) | Medium |
@@ -614,7 +618,7 @@
 ## By Language
 
 <details>
-<summary>python (56)</summary>
+<summary>python (57)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -641,6 +645,7 @@
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
 | 0135 | [Candy](0135-candy/README.md) | Hard |
+| 0153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array/README.md) | Medium |
 | 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium |
 | 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/README.md) | Easy |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
@@ -681,6 +686,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array/README.md) | Medium | 2026-11-13 |
 | 1011 | [Capacity To Ship Packages Within D Days](1011-capacity-to-ship-packages-within-d-days/README.md) | Medium | 2026-11-12 |
 | 0875 | [Koko Eating Bananas](0875-koko-eating-bananas/README.md) | Medium | 2026-11-12 |
 | 0069 | [Sqrt(x)](0069-sqrtx/README.md) | Easy | 2026-11-11 |
@@ -695,4 +701,3 @@
 | 0015 | [3Sum](0015-3sum/README.md) | Medium | 2026-11-07 |
 | 0516 | [Longest Palindromic Subsequence](0516-longest-palindromic-subsequence/README.md) | Medium | 2026-11-06 |
 | 0115 | [Distinct Subsequences](0115-distinct-subsequences/README.md) | Hard | 2026-11-06 |
-| 3665 | [Twisted Mirror Path Count](3665-twisted-mirror-path-count/README.md) | Medium | 2026-11-05 |

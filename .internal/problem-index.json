@@ -791,5 +791,18 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-12T17:41:00.297Z"
+  },
+  {
+    "folderId": "leetcode/0153-find-minimum-in-rotated-sorted-array",
+    "frontendId": "153",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "slug": "find-minimum-in-rotated-sorted-array",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-13T18:24:03.119Z"
   }
 ]
