@@ -804,5 +804,18 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-13T18:24:03.119Z"
+  },
+  {
+    "folderId": "leetcode/0033-search-in-rotated-sorted-array",
+    "frontendId": "33",
+    "title": "Search in Rotated Sorted Array",
+    "slug": "search-in-rotated-sorted-array",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-13T18:32:02.325Z"
   }
 ]
