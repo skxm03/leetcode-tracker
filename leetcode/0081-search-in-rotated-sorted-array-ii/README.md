@@ -7,8 +7,8 @@
 | Field | Value |
 | --- | --- |
 | Runtime | 0 ms |
-| Memory | 12.6 MB |
-| Submission Date | 2026-11-14T18:35:55.447Z |
+| Memory | 12.5 MB |
+| Submission Date | 2026-11-14T18:37:55.975Z |
 | Platform | leetcode |
 
 ## Problem Statement
@@ -59,19 +59,16 @@ class Solution(object):
             if nums[mid] == target:
                 return True
 
-            # Ambiguous because of duplicates
             if nums[start] == nums[mid] == nums[end]:
                 start += 1
                 end -= 1
 
-            # Left half is sorted
             elif nums[start] <= nums[mid]:
                 if nums[start] <= target < nums[mid]:
                     end = mid - 1
                 else:
                     start = mid + 1
 
-            # Right half is sorted
             else:
                 if nums[mid] < target <= nums[end]:
                     start = mid + 1
