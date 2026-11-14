@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**58** problems solved — 19 Easy · 37 Medium · 2 Hard
+**59** problems solved — 19 Easy · 38 Medium · 2 Hard
 
 ## Contents
 
@@ -31,6 +31,7 @@
 | 0069 | [Sqrt(x)](0069-sqrtx/README.md) | Easy | Math, Binary Search, Newton's Method |
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy | Math, Dynamic Programming, Memoization |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
+| 0081 | [Search in Rotated Sorted Array II](0081-search-in-rotated-sorted-array-ii/README.md) | Medium | Array, Binary Search |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy | Array, Two Pointers, Sorting |
 | 0115 | [Distinct Subsequences](0115-distinct-subsequences/README.md) | Hard | String, Dynamic Programming |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy | Array, Dynamic Programming |
@@ -99,7 +100,7 @@
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
-### Medium (37)
+### Medium (38)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -113,6 +114,7 @@
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Array, Dynamic Programming, Matrix |
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Array, Dynamic Programming, Matrix |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
+| 0081 | [Search in Rotated Sorted Array II](0081-search-in-rotated-sorted-array-ii/README.md) | Array, Binary Search |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Array, Dynamic Programming, Greedy |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Array, Greedy |
 | 0153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array/README.md) | Array, Binary Search |
@@ -151,7 +153,7 @@
 ## By Topic
 
 <details>
-<summary>Array (44)</summary>
+<summary>Array (45)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -169,6 +171,7 @@
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
+| 0081 | [Search in Rotated Sorted Array II](0081-search-in-rotated-sorted-array-ii/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
@@ -203,13 +206,14 @@
 </details>
 
 <details>
-<summary>Binary Search (8)</summary>
+<summary>Binary Search (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0033 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/README.md) | Medium |
 | 0035 | [Search Insert Position](0035-search-insert-position/README.md) | Easy |
 | 0069 | [Sqrt(x)](0069-sqrtx/README.md) | Easy |
+| 0081 | [Search in Rotated Sorted Array II](0081-search-in-rotated-sorted-array-ii/README.md) | Medium |
 | 0153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array/README.md) | Medium |
 | 0374 | [Guess Number Higher or Lower](0374-guess-number-higher-or-lower/README.md) | Easy |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy |
@@ -622,7 +626,7 @@
 ## By Language
 
 <details>
-<summary>python (58)</summary>
+<summary>python (59)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -643,6 +647,7 @@
 | 0069 | [Sqrt(x)](0069-sqrtx/README.md) | Easy |
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
+| 0081 | [Search in Rotated Sorted Array II](0081-search-in-rotated-sorted-array-ii/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0115 | [Distinct Subsequences](0115-distinct-subsequences/README.md) | Hard |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy |
@@ -691,6 +696,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0081 | [Search in Rotated Sorted Array II](0081-search-in-rotated-sorted-array-ii/README.md) | Medium | 2026-11-14 |
 | 0033 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/README.md) | Medium | 2026-11-13 |
 | 0153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array/README.md) | Medium | 2026-11-13 |
 | 1011 | [Capacity To Ship Packages Within D Days](1011-capacity-to-ship-packages-within-d-days/README.md) | Medium | 2026-11-12 |
@@ -705,4 +711,3 @@
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium | 2026-11-08 |
 | 0018 | [4Sum](0018-4sum/README.md) | Medium | 2026-11-07 |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium | 2026-11-07 |
-| 0516 | [Longest Palindromic Subsequence](0516-longest-palindromic-subsequence/README.md) | Medium | 2026-11-06 |

@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "81",
+  "frontendId": "81",
+  "title": "Search in Rotated Sorted Array II",
+  "slug": "search-in-rotated-sorted-array-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "0 ms",
+  "memory": "12.6 MB",
+  "submissionId": "2196132190",
+  "acceptedAt": "2026-11-14T18:35:55.447Z",
+  "updatedAt": "2026-11-14T18:35:56.517Z",
+  "url": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+  "version": 1
+}

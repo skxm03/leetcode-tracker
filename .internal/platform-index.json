@@ -57,6 +57,7 @@
     "leetcode/0875-koko-eating-bananas",
     "leetcode/1011-capacity-to-ship-packages-within-d-days",
     "leetcode/0153-find-minimum-in-rotated-sorted-array",
-    "leetcode/0033-search-in-rotated-sorted-array"
+    "leetcode/0033-search-in-rotated-sorted-array",
+    "leetcode/0081-search-in-rotated-sorted-array-ii"
   ]
 }
