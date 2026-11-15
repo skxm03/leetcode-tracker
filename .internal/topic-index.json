@@ -253,5 +253,11 @@
   ],
   "Newton's Method": [
     "leetcode/0069-sqrtx"
+  ],
+  "Linked List": [
+    "leetcode/0206-reverse-linked-list"
+  ],
+  "Recursion": [
+    "leetcode/0206-reverse-linked-list"
   ]
 }

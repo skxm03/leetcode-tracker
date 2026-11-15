@@ -830,5 +830,18 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-14T18:37:55.975Z"
+  },
+  {
+    "folderId": "leetcode/0206-reverse-linked-list",
+    "frontendId": "206",
+    "title": "Reverse Linked List",
+    "slug": "reverse-linked-list",
+    "difficulty": "Easy",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-15T16:58:56.858Z"
   }
 ]

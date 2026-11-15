@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "206",
+  "frontendId": "206",
+  "title": "Reverse Linked List",
+  "slug": "reverse-linked-list",
+  "difficulty": "Easy",
+  "topics": [
+    "Linked List",
+    "Recursion"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "0 ms",
+  "memory": "14.3 MB",
+  "submissionId": "2196770730",
+  "acceptedAt": "2026-11-15T16:58:56.858Z",
+  "updatedAt": "2026-11-15T16:58:58.138Z",
+  "url": "https://leetcode.com/problems/reverse-linked-list/",
+  "version": 1
+}

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**59** problems solved — 19 Easy · 38 Medium · 2 Hard
+**60** problems solved — 20 Easy · 38 Medium · 2 Hard
 
 ## Contents
 
@@ -41,6 +41,7 @@
 | 0135 | [Candy](0135-candy/README.md) | Hard | Array, Greedy |
 | 0153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array/README.md) | Medium | Array, Binary Search |
 | 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium | Array, Math, Two Pointers |
+| 0206 | [Reverse Linked List](0206-reverse-linked-list/README.md) | Easy | Linked List, Recursion |
 | 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/README.md) | Easy | Array, Hash Table, Sliding Window |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium | Array, Hash Table, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | Array, Prefix Sum |
@@ -76,7 +77,7 @@
 
 ## By Difficulty
 
-### Easy (19)
+### Easy (20)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -90,6 +91,7 @@
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Array, Two Pointers, Sorting |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Array, Dynamic Programming |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Two Pointers, String |
+| 0206 | [Reverse Linked List](0206-reverse-linked-list/README.md) | Linked List, Recursion |
 | 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/README.md) | Array, Hash Table, Sliding Window |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Hash Table, String, Sorting |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Two Pointers, String |
@@ -414,6 +416,15 @@
 </details>
 
 <details>
+<summary>Linked List (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0206 | [Reverse Linked List](0206-reverse-linked-list/README.md) | Easy |
+
+</details>
+
+<details>
 <summary>Longest Common Subsequence (3)</summary>
 
 | # | Title | Difficulty |
@@ -509,6 +520,15 @@
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Recursion (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0206 | [Reverse Linked List](0206-reverse-linked-list/README.md) | Easy |
 
 </details>
 
@@ -626,7 +646,7 @@
 ## By Language
 
 <details>
-<summary>python (59)</summary>
+<summary>python (60)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -657,6 +677,7 @@
 | 0135 | [Candy](0135-candy/README.md) | Hard |
 | 0153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array/README.md) | Medium |
 | 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium |
+| 0206 | [Reverse Linked List](0206-reverse-linked-list/README.md) | Easy |
 | 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/README.md) | Easy |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
@@ -696,6 +717,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0206 | [Reverse Linked List](0206-reverse-linked-list/README.md) | Easy | 2026-11-15 |
 | 0081 | [Search in Rotated Sorted Array II](0081-search-in-rotated-sorted-array-ii/README.md) | Medium | 2026-11-14 |
 | 0033 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/README.md) | Medium | 2026-11-13 |
 | 0153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array/README.md) | Medium | 2026-11-13 |
@@ -710,4 +732,3 @@
 | 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium | 2026-11-08 |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium | 2026-11-08 |
 | 0018 | [4Sum](0018-4sum/README.md) | Medium | 2026-11-07 |
-| 0015 | [3Sum](0015-3sum/README.md) | Medium | 2026-11-07 |
