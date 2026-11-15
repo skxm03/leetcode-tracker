@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**60** problems solved — 20 Easy · 38 Medium · 2 Hard
+**61** problems solved — 21 Easy · 38 Medium · 2 Hard
 
 ## Contents
 
@@ -19,6 +19,7 @@
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | Array, String, Trie |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium | Array, Two Pointers, Sorting |
 | 0018 | [4Sum](0018-4sum/README.md) | Medium | Array, Two Pointers, Sorting |
+| 0021 | [Merge Two Sorted Lists](0021-merge-two-sorted-lists/README.md) | Easy | Linked List, Recursion |
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy | Array, Two Pointers |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | Array, Two Pointers |
 | 0033 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/README.md) | Medium | Array, Binary Search |
@@ -77,12 +78,13 @@
 
 ## By Difficulty
 
-### Easy (20)
+### Easy (21)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Array, Hash Table |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Array, String, Trie |
+| 0021 | [Merge Two Sorted Lists](0021-merge-two-sorted-lists/README.md) | Linked List, Recursion |
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Array, Two Pointers |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
 | 0035 | [Search Insert Position](0035-search-insert-position/README.md) | Array, Binary Search |
@@ -416,10 +418,11 @@
 </details>
 
 <details>
-<summary>Linked List (1)</summary>
+<summary>Linked List (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0021 | [Merge Two Sorted Lists](0021-merge-two-sorted-lists/README.md) | Easy |
 | 0206 | [Reverse Linked List](0206-reverse-linked-list/README.md) | Easy |
 
 </details>
@@ -524,10 +527,11 @@
 </details>
 
 <details>
-<summary>Recursion (1)</summary>
+<summary>Recursion (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0021 | [Merge Two Sorted Lists](0021-merge-two-sorted-lists/README.md) | Easy |
 | 0206 | [Reverse Linked List](0206-reverse-linked-list/README.md) | Easy |
 
 </details>
@@ -646,7 +650,7 @@
 ## By Language
 
 <details>
-<summary>python (60)</summary>
+<summary>python (61)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -655,6 +659,7 @@
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium |
 | 0018 | [4Sum](0018-4sum/README.md) | Medium |
+| 0021 | [Merge Two Sorted Lists](0021-merge-two-sorted-lists/README.md) | Easy |
 | 0026 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0033 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/README.md) | Medium |
@@ -717,6 +722,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0021 | [Merge Two Sorted Lists](0021-merge-two-sorted-lists/README.md) | Easy | 2026-11-15 |
 | 0206 | [Reverse Linked List](0206-reverse-linked-list/README.md) | Easy | 2026-11-15 |
 | 0081 | [Search in Rotated Sorted Array II](0081-search-in-rotated-sorted-array-ii/README.md) | Medium | 2026-11-14 |
 | 0033 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/README.md) | Medium | 2026-11-13 |
@@ -731,4 +737,3 @@
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy | 2026-11-09 |
 | 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium | 2026-11-08 |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium | 2026-11-08 |
-| 0018 | [4Sum](0018-4sum/README.md) | Medium | 2026-11-07 |

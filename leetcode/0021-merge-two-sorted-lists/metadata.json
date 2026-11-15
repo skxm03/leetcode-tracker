@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "21",
+  "frontendId": "21",
+  "title": "Merge Two Sorted Lists",
+  "slug": "merge-two-sorted-lists",
+  "difficulty": "Easy",
+  "topics": [
+    "Linked List",
+    "Recursion"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "0 ms",
+  "memory": "12.4 MB",
+  "submissionId": "2196772122",
+  "acceptedAt": "2026-11-15T17:00:59.641Z",
+  "updatedAt": "2026-11-15T17:01:00.459Z",
+  "url": "https://leetcode.com/problems/merge-two-sorted-lists/",
+  "version": 1
+}

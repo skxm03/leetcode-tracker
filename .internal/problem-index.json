@@ -843,5 +843,18 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-15T16:58:56.858Z"
+  },
+  {
+    "folderId": "leetcode/0021-merge-two-sorted-lists",
+    "frontendId": "21",
+    "title": "Merge Two Sorted Lists",
+    "slug": "merge-two-sorted-lists",
+    "difficulty": "Easy",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-15T17:00:59.641Z"
   }
 ]

@@ -255,9 +255,11 @@
     "leetcode/0069-sqrtx"
   ],
   "Linked List": [
-    "leetcode/0206-reverse-linked-list"
+    "leetcode/0206-reverse-linked-list",
+    "leetcode/0021-merge-two-sorted-lists"
   ],
   "Recursion": [
-    "leetcode/0206-reverse-linked-list"
+    "leetcode/0206-reverse-linked-list",
+    "leetcode/0021-merge-two-sorted-lists"
   ]
 }
