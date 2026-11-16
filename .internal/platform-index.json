@@ -60,6 +60,7 @@
     "leetcode/0033-search-in-rotated-sorted-array",
     "leetcode/0081-search-in-rotated-sorted-array-ii",
     "leetcode/0206-reverse-linked-list",
-    "leetcode/0021-merge-two-sorted-lists"
+    "leetcode/0021-merge-two-sorted-lists",
+    "leetcode/0300-longest-increasing-subsequence"
   ]
 }

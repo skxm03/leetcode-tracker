@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "300",
+  "frontendId": "300",
+  "title": "Longest Increasing Subsequence",
+  "slug": "longest-increasing-subsequence",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Longest Increasing Subsequence"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "5758 ms",
+  "memory": "121.8 MB",
+  "submissionId": "2197031713",
+  "acceptedAt": "2026-11-16T04:33:43.925Z",
+  "updatedAt": "2026-11-16T04:33:44.826Z",
+  "url": "https://leetcode.com/problems/longest-increasing-subsequence/",
+  "version": 1
+}

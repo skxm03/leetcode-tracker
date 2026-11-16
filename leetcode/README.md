@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**61** problems solved — 21 Easy · 38 Medium · 2 Hard
+**62** problems solved — 21 Easy · 39 Medium · 2 Hard
 
 ## Contents
 
@@ -47,6 +47,7 @@
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium | Array, Hash Table, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | Array, Prefix Sum |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy | Hash Table, String, Sorting |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium | Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | Two Pointers, String |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
@@ -104,7 +105,7 @@
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
-### Medium (38)
+### Medium (39)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -125,6 +126,7 @@
 | 0189 | [Rotate Array](0189-rotate-array/README.md) | Array, Math, Two Pointers |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Array, Hash Table, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Array, Prefix Sum |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Array, Dynamic Programming, Greedy, Sorting |
@@ -157,7 +159,7 @@
 ## By Topic
 
 <details>
-<summary>Array (45)</summary>
+<summary>Array (46)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -186,6 +188,7 @@
 | 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/README.md) | Easy |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
@@ -210,7 +213,7 @@
 </details>
 
 <details>
-<summary>Binary Search (9)</summary>
+<summary>Binary Search (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -219,6 +222,7 @@
 | 0069 | [Sqrt(x)](0069-sqrtx/README.md) | Easy |
 | 0081 | [Search in Rotated Sorted Array II](0081-search-in-rotated-sorted-array-ii/README.md) | Medium |
 | 0153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array/README.md) | Medium |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium |
 | 0374 | [Guess Number Higher or Lower](0374-guess-number-higher-or-lower/README.md) | Easy |
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy |
 | 0875 | [Koko Eating Bananas](0875-koko-eating-bananas/README.md) | Medium |
@@ -314,7 +318,7 @@
 </details>
 
 <details>
-<summary>Dynamic Programming (16)</summary>
+<summary>Dynamic Programming (17)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -325,6 +329,7 @@
 | 0115 | [Distinct Subsequences](0115-distinct-subsequences/README.md) | Hard |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
 | 0516 | [Longest Palindromic Subsequence](0516-longest-palindromic-subsequence/README.md) | Medium |
@@ -435,6 +440,15 @@
 | 0583 | [Delete Operation for Two Strings](0583-delete-operation-for-two-strings/README.md) | Medium |
 | 1035 | [Uncrossed Lines](1035-uncrossed-lines/README.md) | Medium |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Longest Increasing Subsequence (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium |
 
 </details>
 
@@ -650,7 +664,7 @@
 ## By Language
 
 <details>
-<summary>python (61)</summary>
+<summary>python (62)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -687,6 +701,7 @@
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 | 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0347 | [Top K Frequent Elements](0347-top-k-frequent-elements/README.md) | Medium |
@@ -722,6 +737,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium | 2026-11-16 |
 | 0021 | [Merge Two Sorted Lists](0021-merge-two-sorted-lists/README.md) | Easy | 2026-11-15 |
 | 0206 | [Reverse Linked List](0206-reverse-linked-list/README.md) | Easy | 2026-11-15 |
 | 0081 | [Search in Rotated Sorted Array II](0081-search-in-rotated-sorted-array-ii/README.md) | Medium | 2026-11-14 |
@@ -736,4 +752,3 @@
 | 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/README.md) | Easy | 2026-11-09 |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy | 2026-11-09 |
 | 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium | 2026-11-08 |
-| 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium | 2026-11-08 |
