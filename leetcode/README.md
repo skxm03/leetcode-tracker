@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**62** problems solved — 21 Easy · 39 Medium · 2 Hard
+**63** problems solved — 22 Easy · 39 Medium · 2 Hard
 
 ## Contents
 
@@ -40,6 +40,7 @@
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy | Two Pointers, String |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium | Array, Greedy |
 | 0135 | [Candy](0135-candy/README.md) | Hard | Array, Greedy |
+| 0141 | [Linked List Cycle](0141-linked-list-cycle/README.md) | Easy | Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm |
 | 0153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array/README.md) | Medium | Array, Binary Search |
 | 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium | Array, Math, Two Pointers |
 | 0206 | [Reverse Linked List](0206-reverse-linked-list/README.md) | Easy | Linked List, Recursion |
@@ -79,7 +80,7 @@
 
 ## By Difficulty
 
-### Easy (21)
+### Easy (22)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -94,6 +95,7 @@
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Array, Two Pointers, Sorting |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Array, Dynamic Programming |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Two Pointers, String |
+| 0141 | [Linked List Cycle](0141-linked-list-cycle/README.md) | Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm |
 | 0206 | [Reverse Linked List](0206-reverse-linked-list/README.md) | Linked List, Recursion |
 | 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/README.md) | Array, Hash Table, Sliding Window |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Hash Table, String, Sorting |
@@ -343,6 +345,15 @@
 </details>
 
 <details>
+<summary>Floyd's Cycle Finding Algorithm (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0141 | [Linked List Cycle](0141-linked-list-cycle/README.md) | Easy |
+
+</details>
+
+<details>
 <summary>Greedy (15)</summary>
 
 | # | Title | Difficulty |
@@ -366,12 +377,13 @@
 </details>
 
 <details>
-<summary>Hash Table (8)</summary>
+<summary>Hash Table (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
+| 0141 | [Linked List Cycle](0141-linked-list-cycle/README.md) | Easy |
 | 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/README.md) | Easy |
 | 0229 | [Majority Element II](0229-majority-element-ii/README.md) | Medium |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | Easy |
@@ -423,11 +435,12 @@
 </details>
 
 <details>
-<summary>Linked List (2)</summary>
+<summary>Linked List (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0021 | [Merge Two Sorted Lists](0021-merge-two-sorted-lists/README.md) | Easy |
+| 0141 | [Linked List Cycle](0141-linked-list-cycle/README.md) | Easy |
 | 0206 | [Reverse Linked List](0206-reverse-linked-list/README.md) | Easy |
 
 </details>
@@ -640,7 +653,7 @@
 </details>
 
 <details>
-<summary>Two Pointers (14)</summary>
+<summary>Two Pointers (15)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -652,6 +665,7 @@
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0088 | [Merge Sorted Array](0088-merge-sorted-array/README.md) | Easy |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
+| 0141 | [Linked List Cycle](0141-linked-list-cycle/README.md) | Easy |
 | 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy |
 | 0680 | [Valid Palindrome II](0680-valid-palindrome-ii/README.md) | Easy |
@@ -664,7 +678,7 @@
 ## By Language
 
 <details>
-<summary>python (62)</summary>
+<summary>python (63)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -694,6 +708,7 @@
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
 | 0134 | [Gas Station](0134-gas-station/README.md) | Medium |
 | 0135 | [Candy](0135-candy/README.md) | Hard |
+| 0141 | [Linked List Cycle](0141-linked-list-cycle/README.md) | Easy |
 | 0153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array/README.md) | Medium |
 | 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium |
 | 0206 | [Reverse Linked List](0206-reverse-linked-list/README.md) | Easy |
@@ -737,6 +752,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0141 | [Linked List Cycle](0141-linked-list-cycle/README.md) | Easy | 2026-11-17 |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium | 2026-11-16 |
 | 0021 | [Merge Two Sorted Lists](0021-merge-two-sorted-lists/README.md) | Easy | 2026-11-15 |
 | 0206 | [Reverse Linked List](0206-reverse-linked-list/README.md) | Easy | 2026-11-15 |
@@ -751,4 +767,3 @@
 | 0704 | [Binary Search](0704-binary-search/README.md) | Easy | 2026-11-10 |
 | 0219 | [Contains Duplicate II](0219-contains-duplicate-ii/README.md) | Easy | 2026-11-09 |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy | 2026-11-09 |
-| 0189 | [Rotate Array](0189-rotate-array/README.md) | Medium | 2026-11-08 |
